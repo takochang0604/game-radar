@@ -1,4 +1,4 @@
-# 每日自動排程：抓排行榜 → 偵測黑馬 → 上傳 Firebase
+# A 版（正式版）每日自動排程：抓排行榜 → 偵測黑馬 → 上傳 Firebase
 # 台灣時間 19:10 (UTC 11:10) 執行
 #
 # 需要設定的 GitHub Secret：
@@ -16,7 +16,6 @@ permissions:
   contents: write
 
 jobs:
-  # ===== A 版（main）：正式版 =====
   daily-pipeline:
     runs-on: ubuntu-latest
     timeout-minutes: 60
@@ -64,57 +63,3 @@ jobs:
       - name: Cleanup credentials
         if: always()
         run: rm -f google-credentials.json
-
-  # ===== B 版（dev）：測試版 =====
-  # 共用 main 的快照資料，用 dev 分支的算法偵測 + 上傳到 gameAnalysis-dev
-  dev-pipeline:
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
-    needs: daily-pipeline  # 等 A 版跑完（快照已 commit）再跑
-
-    steps:
-      - name: Checkout dev branch
-        uses: actions/checkout@v4
-        with:
-          ref: dev
-          fetch-depth: 0  # 需要存取 main 分支的資料
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Write Firebase credentials
-        run: echo '${{ secrets.GOOGLE_CREDENTIALS_JSON }}' > google-credentials.json
-
-      # 從 main 分支複製最新快照到 dev
-      - name: Copy snapshots from main
-        run: |
-          git checkout origin/main -- data/snapshots/
-          echo "✅ Copied snapshots from main branch"
-
-      # 用 dev 的算法偵測黑馬
-      - name: Detect darkhorses (dev algorithm)
-        run: node scripts/detect-darkhorse.js
-
-      # 上傳到 gameAnalysis-dev collection
-      - name: Upload to Firebase (dev)
-        run: node scripts/upload-to-firebase.js
-
-      # Commit 回 dev 分支
-      - name: Commit and push data to dev
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "chore: daily data update [dev] $(date -u +%Y-%m-%d)"
-          git push origin dev
-
-      - name: Cleanup credentials
-        if: always()
-        run: rm -f google-credentials.json
-
