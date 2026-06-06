@@ -1,0 +1,92 @@
+{
+  "appId": "com.sugargame.mjlj.gp",
+  "name": "Illusion Connect: Re",
+  "platform": "android",
+  "market": "tw",
+  "detail": {
+    "description": "Step back into a world where your adventure once began. Reconnect with the Radiants who fought beside you and relive the excitement of past battles. New encounters, new memories, and new challenges await as your story moves forward.\n\n● Lead Real-time Battles\nTake command in dynamic real-time combat where strategy and timing matter. Direct your heroes, shift formations during battle, and combine their strengths to overcome powerful Nightmares.\n\n● Form Your Dream Team\nBuild your team from a roster",
+    "released": "May 29, 2026",
+    "updated": 1780056388000,
+    "version": "1.0.12",
+    "installs": "50,000+",
+    "score": 4.4,
+    "ratings": 4458,
+    "reviews": 24,
+    "developer": "SUGARGAME NETWORK LIMITED (HONG KONG)",
+    "developerWebsite": "https://www.sugargame.hk/",
+    "genre": "Role Playing",
+    "recentChanges": "Illusion Connect: Re is launching on June 4, 11:00 (UTC+8)!"
+  },
+  "reviewAnalysis": {
+    "total": 200,
+    "starCounts": {
+      "1": 28,
+      "2": 3,
+      "3": 9,
+      "4": 12,
+      "5": 148
+    },
+    "positiveRatio": 80,
+    "negativeRatio": 16,
+    "eventMentions": [
+      {
+        "text": "yyyyeeesss!!!!! the best game 10/10!!!!! it's been 5 years!!!!! (i'm loving it, every seconds, every",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "eyyy it came backk haha, i knew you guys can make it out keep up the workk i like this game... 👍",
+        "keywords": [
+          "new"
+        ]
+      },
+      {
+        "text": "for a newly released game, it is not as generous in giving perks as the other similar games.",
+        "keywords": [
+          "new"
+        ]
+      },
+      {
+        "text": "i have been waiting for this game to come back and its finally here 😭 i like the new character desi",
+        "keywords": [
+          "new"
+        ]
+      },
+      {
+        "text": "not worth playing. no summon currency for limited banners. no clarity on events( delicacy battle). r",
+        "keywords": [
+          "event",
+          "limited"
+        ]
+      }
+    ]
+  },
+  "inferredReasons": [
+    {
+      "type": "new_release",
+      "label": "🆕 新遊戲上線熱度",
+      "detail": "上架 8 天，評分 4.4",
+      "confidence": "high"
+    },
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 8 天前",
+      "confidence": "medium"
+    },
+    {
+      "type": "event_driven",
+      "label": "🎉 限時活動引流",
+      "detail": "評論中 5 次提及活動/事件",
+      "confidence": "medium"
+    },
+    {
+      "type": "word_of_mouth",
+      "label": "💬 口碑爆發",
+      "detail": "4-5星評論佔 80%",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:07:22.362Z"
+}

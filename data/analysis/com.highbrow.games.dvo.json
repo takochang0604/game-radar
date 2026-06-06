@@ -2,61 +2,61 @@
   "appId": "com.highbrow.games.dvo",
   "name": "Dragon Village 3",
   "platform": "android",
-  "market": "kr",
+  "market": "tw",
   "detail": {
     "description": "■ Endless joy of dragon collection and breeding\nA breeding system beyond imagination: Combine dragons to discover mysterious rare dragons born only from your unique choices.\nCuteness overload! Pixel dragon collection: Collect a vast array of dragons crafted with intricate retro pixel art and complete your very own dragon encyclopedia.\nAn infinitely expanding lineup: Thousands of dragons added through regular updates will fuel your collector's passion.\n\n■ Build your own Dragon Village\nA village t",
     "released": "May 22, 2026",
-    "updated": 1779885970000,
-    "version": "1.0.2",
+    "updated": 1780654287000,
+    "version": "1.0.4",
     "installs": "100,000+",
-    "score": 4.7,
-    "ratings": 5265,
-    "reviews": 332,
+    "score": 4.3,
+    "ratings": 9532,
+    "reviews": 58,
     "developer": "highbrow",
     "developerWebsite": "https://www.highbrow.com",
     "genre": "Role Playing",
     "recentChanges": "Dragon Village 3 Grand Open"
   },
   "reviewAnalysis": {
-    "total": 150,
+    "total": 200,
     "starCounts": {
-      "1": 23,
-      "2": 6,
-      "3": 12,
-      "4": 17,
-      "5": 92
+      "1": 44,
+      "2": 16,
+      "3": 26,
+      "4": 23,
+      "5": 91
     },
-    "positiveRatio": 73,
-    "negativeRatio": 19,
+    "positiveRatio": 57,
+    "negativeRatio": 30,
     "eventMentions": [
       {
-        "text": "games is like dragon city but better because there is no builder. i love the animation and that the ",
+        "text": "sat through a literal 30 min tutorial where the game holds your hand as if you've never even heard o",
         "keywords": [
           "new"
         ]
       },
       {
-        "text": "so far the experience has been fun! though there are times the game kicks me out when entering battl",
+        "text": "nice update in june. i uninstalled already hahaha, spender player will enjoy it and normal player wi",
         "keywords": [
           "update"
         ]
       },
       {
-        "text": "i want to give it a chance but the game kept freezing and closing at fight 0-2. then i checked and t",
-        "keywords": [
-          "update"
-        ]
-      },
-      {
-        "text": "has the potential to be a decent game, but crashes every time i go into battle. will update review i",
-        "keywords": [
-          "update"
-        ]
-      },
-      {
-        "text": "this is my new favorite dragon game by far!!!",
+        "text": "ngl at first i don't wanna play it because i thought its gonna be like the other 1 and 2, but this o",
         "keywords": [
           "new"
+        ]
+      },
+      {
+        "text": "after i updated the game,the language stayed on korean:'', ) i've already switched it to english in ",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "overall it's a great concept, however there are several glaring issues making their presence known; ",
+        "keywords": [
+          "event"
         ]
       }
     ]
@@ -65,13 +65,13 @@
     {
       "type": "new_release",
       "label": "🆕 新遊戲上線熱度",
-      "detail": "上架 9 天，評分 4.7",
+      "detail": "上架 15 天，評分 4.3",
       "confidence": "high"
     },
     {
       "type": "major_update",
       "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 4 天前",
+      "detail": "最近更新: 1 天前",
       "confidence": "high"
     },
     {
@@ -81,5 +81,5 @@
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-31T15:25:41.863Z"
+  "analyzedAt": "2026-06-06T15:02:04.071Z"
 }

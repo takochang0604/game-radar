@@ -1,0 +1,80 @@
+{
+  "appId": "com.scopely.monopolygo",
+  "name": "MONOPOLY GO!",
+  "platform": "android",
+  "market": "us",
+  "detail": {
+    "description": "The Simpsons are here! Hit GO! Roll the dice with the Simpsons family and many other beloved Springfielders! Earn MONOPOLY money, interact with your friends, family members and fellow Tycoons from around the world as you explore the expanding universe of MONOPOLY GO - now featuring Springfield's finest, including the Simpson family (Homer, Marge, Bart, Lisa, and Maggie), Mr. Burns, Krusty, and many more! It’s the new way to play - board flipping cleanup not required!\n\nDiscover Springfield! Unloc",
+    "released": "Apr 11, 2023",
+    "updated": 1780446107000,
+    "version": "1.69.1",
+    "installs": "100,000,000+",
+    "score": 4.6,
+    "ratings": 3152902,
+    "reviews": 308511,
+    "developer": "Scopely",
+    "developerWebsite": "https://support.monopolygo.com/",
+    "genre": "Board",
+    "recentChanges": "What’s new, Tycoon?<br>We’ve been busy making your game even better:<br><br>Fixed bugs for a smoother ride<br>Improved performance across the board<br>Refined gameplay for a more seamless experience<br>Update now and keep the good times rolling!"
+  },
+  "reviewAnalysis": {
+    "total": 200,
+    "starCounts": {
+      "1": 45,
+      "2": 6,
+      "3": 11,
+      "4": 11,
+      "5": 127
+    },
+    "positiveRatio": 69,
+    "negativeRatio": 26,
+    "eventMentions": [
+      {
+        "text": "too many updates. you're adding items that i won't need or use.",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "hadnt been able to play since the update!",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "yes *jasmine sandbrook's green glittery fingernailed fingered fist raising up into the air* finally ",
+        "keywords": [
+          "event"
+        ]
+      },
+      {
+        "text": "i have played this game daily since the launch of the new sticker packs, but the drop rates feel hig",
+        "keywords": [
+          "event",
+          "new"
+        ]
+      },
+      {
+        "text": "really enjoyed this game until i got a new phone and when all my stuff was transferred over i lost m",
+        "keywords": [
+          "new"
+        ]
+      }
+    ]
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 3 天前",
+      "confidence": "high"
+    },
+    {
+      "type": "event_driven",
+      "label": "🎉 限時活動引流",
+      "detail": "評論中 5 次提及活動/事件",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:07:12.023Z"
+}

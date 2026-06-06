@@ -1,0 +1,45 @@
+{
+  "appId": "6762342518",
+  "name": "Fluffy Drop",
+  "platform": "ios",
+  "market": "jp",
+  "detail": {
+    "description": "Fluffy Drop – ふわふわパズルアドベンチャー ひと手ごとに、心がはずむ\n\nふわふわボールを同じ色のエリアに導く、シンプルで奥深いパズルゲーム。\nドラッグ＆ドロップの爽快感と、色合わせの戦略が絶妙にマッチ。\nボードをきれいに埋めて、次の一手を考えるたびに、心地よい達成感が広がります。\nパズル初心者も、脳トレ気分の人も、誰でも楽しめるやさしい世界へ。\n\nFluffy Dropのここが魅力：\n\n- 気持ちいいドラッグ操作 – 簡単だけど、やりごたえ十分。\n- 多数の癒しレベル – やさしい入門から頭を使った難問まで、幅広く挑戦を用意。\n- カラフルでなめらかな演出 – そっと動くアニメーションがマッチのたびに嬉しさをプラス。\n- 戦略的プレイ – 次の一手を読み、連鎖を生み出す快感。\n- オフラインでも遊べる – Wi-Fiがなくてもどこでも楽しめる。\n\nさあ、ふわふわの世界に飛び込もう。\n今すぐダウンロードして、あなただけのパズルの幸せを見つけてください。",
+    "released": "2026-04-21T07:00:00Z",
+    "updated": "2026-06-03T17:27:34Z",
+    "version": "1.3.1",
+    "score": 4.6,
+    "reviews": 518,
+    "developer": "UniRise Studio",
+    "developerUrl": "https://apps.apple.com/jp/developer/unirise-studio/id1823900723?uo=4",
+    "genres": [
+      "ゲーム",
+      "ボード",
+      "パズル",
+      "エンターテインメント"
+    ],
+    "releaseNotes": "Thank you for playing Fluffy Drop! New update including:\n- Bug fixes and performance improvements\n- Optimize user experience"
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 2 天前",
+      "confidence": "high"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:07:38.903Z"
+}

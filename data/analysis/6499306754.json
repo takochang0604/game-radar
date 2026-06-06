@@ -1,0 +1,45 @@
+{
+  "appId": "6499306754",
+  "name": "Cryptogram: Number & Word Game",
+  "platform": "ios",
+  "market": "ph",
+  "detail": {
+    "description": "Welcome to Cryptogram: Number & Word Game: The Ultimate Mind Exploration Adventure\nEmbark on an intellectual journey with Cryptogram: Number & Word Game, a captivating game that seamlessly blends an array of brain-teasing elements. From anagrams and crossword puzzles to cryptograms and Sudoku, Cryptogram: Number & Word Game offers an exciting assortment of challenges that cater to players of all ages and cognitive levels. This exceptional game, designed for both education and entertainment, is s",
+    "released": "2024-06-13T07:00:00Z",
+    "updated": "2026-05-13T03:16:36Z",
+    "version": "1.1.34",
+    "score": 4.6,
+    "reviews": 140,
+    "developer": "Smartronic",
+    "developerUrl": "https://apps.apple.com/ph/developer/smartronic/id1743139022?uo=4",
+    "genres": [
+      "Games",
+      "Entertainment",
+      "Puzzle",
+      "Word"
+    ],
+    "releaseNotes": "- Performance improvements\n- Bug fixes"
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "unknown",
+      "label": "🔍 待深入調查",
+      "detail": "未能自動推測原因，建議手動查看",
+      "confidence": "low"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:02:11.684Z"
+}

@@ -6,16 +6,16 @@
   "detail": {
     "description": "Winjoy Poker Game",
     "released": "Dec 7, 2020",
-    "updated": 1777385946000,
-    "version": "2.31.3",
+    "updated": 1780048171000,
+    "version": "2.32.1",
     "installs": "100,000+",
-    "score": 4.4925375,
-    "ratings": 5363,
+    "score": 4.4,
+    "ratings": 5566,
     "reviews": 2483,
     "developer": "Zempot INC.",
     "developerWebsite": "https://wpl.winjoygame.com/",
     "genre": "Casino",
-    "recentChanges": "■ Update contents<br> <br>1. Various issues in Coin Rush have been resolved.<br>　- Fixed an issue where assets could become frozen at the table<br>　- Fixed an issue where pot winnings were not properly settled after a win<br>　- Adjusted the frequency of being assigned to BB/SB positions more often than intended<br> <br>2. Minor bug fixes and optimizations"
+    "recentChanges": "■ Update contents<br><br>1. Fixed an issue where opponents’ win rates were displayed even when the game was not in a showdown state.<br><br>2. Fixed an issue where the tournament list did not refresh properly when moving between the main lobby and the tournament list.<br><br>3. Fixed an issue where user settings were occasionally reset when reconnecting to the game.<br><br>4. Minor bug fixes and optimizations<br>"
   },
   "reviewAnalysis": {
     "total": 5,
@@ -38,5 +38,5 @@
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-07T11:38:58.300Z"
+  "analyzedAt": "2026-06-06T15:06:02.723Z"
 }

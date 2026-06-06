@@ -2,16 +2,16 @@
   "appId": "6504332779",
   "name": "Color Block Jam",
   "platform": "ios",
-  "market": "us",
+  "market": "ph",
   "detail": {
     "description": "Color Block Jam: A Fun & Challenging Puzzle Adventure\nGet ready for an exciting block puzzle game where your creativity and logic skills are key to unlocking new levels! In Color Block Jam, your mission is to send colored blocks to their matching doors and watch them disappear in a satisfying burst! With simple yet captivating gameplay, the challenge escalates as you progress through increasingly tricky levels.\n\n\n\n\nGame Features:\nEasy to Play, Hard to Master: Slide the blocks freely, but be mind",
     "released": "2024-06-28T07:00:00Z",
     "updated": "2026-05-29T07:16:30Z",
     "version": "1.39.4",
-    "score": 4.6,
-    "reviews": 125714,
+    "score": 4.7,
+    "reviews": 5245,
     "developer": "Rollic Games",
-    "developerUrl": "https://apps.apple.com/us/developer/rollic-games/id1452111779?uo=4",
+    "developerUrl": "https://apps.apple.com/ph/developer/rollic-games/id1452111779?uo=4",
     "genres": [
       "Games",
       "Puzzle"
@@ -35,9 +35,9 @@
     {
       "type": "major_update",
       "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 2 天前",
-      "confidence": "high"
+      "detail": "最近更新: 8 天前",
+      "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-31T15:25:52.253Z"
+  "analyzedAt": "2026-06-06T15:02:23.649Z"
 }

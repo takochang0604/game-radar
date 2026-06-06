@@ -1,0 +1,80 @@
+{
+  "appId": "com.luwukmeliana.profileperfect",
+  "name": "Profile Perfect",
+  "platform": "android",
+  "market": "us",
+  "detail": {
+    "description": "This game is a clever and immersive investigation puzzle where every clue matters, designed for fans of brain and iq challenges. Your goal is simple: discover the truth behind every file, find the hidden secrets, and master the art of the digital search in this fun game.\n\nGuess the identity of the person behind the screen and uncover the story through social media deep-dives and digital sleuthing. Tap through profiles, identify suspicious activity, and find the perfect cross-reference as you sol",
+    "released": "Aug 15, 2025",
+    "updated": 1779556960000,
+    "version": "0.8.1",
+    "installs": "100,000+",
+    "score": 4.6,
+    "ratings": 3519,
+    "reviews": 233,
+    "developer": "Lion Studios Plus",
+    "developerWebsite": "https://lionstudios.cc",
+    "genre": "Puzzle",
+    "recentChanges": "- New Levels<br>- Performance Optimizations<br>- Bug Fixes"
+  },
+  "reviewAnalysis": {
+    "total": 200,
+    "starCounts": {
+      "1": 32,
+      "2": 16,
+      "3": 15,
+      "4": 31,
+      "5": 106
+    },
+    "positiveRatio": 69,
+    "negativeRatio": 24,
+    "eventMentions": [
+      {
+        "text": "such a lovely fun game, it's very clever. i'm enjoying the different scenarios with each new section",
+        "keywords": [
+          "new"
+        ]
+      },
+      {
+        "text": "involuntary ads. update: why tf would i change my review? you know what you did and don't pretend yo",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "一款会让人上瘾的益智游戏，很好玩。期待有出新的故事游戏",
+        "keywords": [
+          "新"
+        ]
+      },
+      {
+        "text": "love it but i'm on level 433 and it seems i'm just repeating levels for a long time now so would lov",
+        "keywords": [
+          "update",
+          "new"
+        ]
+      },
+      {
+        "text": "great game whenever ur bored, lacks stories though, hoping it updates frequently.",
+        "keywords": [
+          "update"
+        ]
+      }
+    ]
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 13 天前",
+      "confidence": "medium"
+    },
+    {
+      "type": "event_driven",
+      "label": "🎉 限時活動引流",
+      "detail": "評論中 5 次提及活動/事件",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:03:49.581Z"
+}

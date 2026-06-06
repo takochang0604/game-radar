@@ -1,0 +1,44 @@
+{
+  "appId": "6757845671",
+  "name": "Haunted Room: Sleep Survivor",
+  "platform": "ios",
+  "market": "th",
+  "detail": {
+    "description": "[Special Rewards] 500 Draws, Skeleton Outfit, Random Orange Hero, and Limited Decor!\n\nWhen your city becomes the hunting ground for ghosts and monsters... \"Knock, knock.\" Someone's knocking on your door...\n\n\"Shh, don't make a sound, and don't open the door.\"\n\nCreatures from age-old tales and urban legends are trying to break into your house. Your job? Close the door and defend it with your heroes as your heart pounds with excitement and no fear.\n\nSchools, hospitals, hotels, streets, and office b",
+    "released": "2026-03-18T07:00:00Z",
+    "updated": "2026-05-21T02:02:57Z",
+    "version": "10000.0.43",
+    "score": 4.8,
+    "reviews": 1427,
+    "developer": "Joy Net Games",
+    "developerUrl": "https://apps.apple.com/th/developer/joy-net-games/id1688367866?uo=4",
+    "genres": [
+      "Games",
+      "Strategy",
+      "Role-Playing"
+    ],
+    "releaseNotes": "1. Version content upgrade and optimization\n2. Known issues fixed"
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "unknown",
+      "label": "🔍 待深入調查",
+      "detail": "未能自動推測原因，建議手動查看",
+      "confidence": "low"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:08:18.185Z"
+}

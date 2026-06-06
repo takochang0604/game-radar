@@ -1,0 +1,49 @@
+{
+  "appId": "6756647093",
+  "name": "Ngạo Kiếm Vô Song Mobile – myG",
+  "platform": "ios",
+  "market": "vn",
+  "detail": {
+    "description": "Quyết định phát hành chính thức số 131/QĐ-PTTH&TTĐT Cục Phát Thanh, Truyền Hình và Thông Tin ngày 13 tháng 03 năm 2026: https://giayphep.abei.gov.vn/g1/132055\n\nNGẠO KIẾM VÔ SONG MOBILE ANH HÙNG TRANH THIÊN HẠ, NGẠO KIẾM ĐỊNH GIANG SƠN\nNgạo Kiếm Vô Song Mobile là game kiếm hiệp nhập vai trực tuyến nhiều người chơi, đưa người chơi bước vào thế giới giang hồ rộng lớn với nhiều hoạt động quen thuộc như lựa chọn môn phái, rèn luyện võ công, săn Boss, PK, giao thương vật phẩm trong game và tham gia cá",
+    "released": "2026-06-01T07:00:00Z",
+    "updated": "2026-06-01T07:54:35Z",
+    "version": "1.0.0",
+    "score": 5,
+    "reviews": 276,
+    "developer": "myG",
+    "developerUrl": "https://apps.apple.com/vn/developer/myg/id1436944797?uo=4",
+    "genres": [
+      "Games",
+      "Role-Playing"
+    ],
+    "releaseNotes": ""
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "new_release",
+      "label": "🆕 新遊戲上線熱度",
+      "detail": "上架 5 天，評分 5.0",
+      "confidence": "high"
+    },
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 5 天前",
+      "confidence": "high"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:06:59.704Z"
+}

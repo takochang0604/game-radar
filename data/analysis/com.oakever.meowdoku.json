@@ -2,16 +2,16 @@
   "appId": "com.oakever.meowdoku",
   "name": "Meowdoku: Brain Puzzle Games",
   "platform": "android",
-  "market": "jp",
+  "market": "us",
   "detail": {
     "description": "Looking for a game that soothes the soul but keeps your brain spinning? Welcome to Meowdoku — a pure logic puzzle game that flawlessly blends the rigorous reasoning of Sudoku with the thrilling deduction of Minesweeper.\nHere, you have only one mission: find the perfect \"exclusive territory\" for every aloof little cat!\n💡 Simple Rules, Deep Strategy\nThe concept is elegant and intuitive, yet anything but simple:\n• Exclusive Territory: The board is divided into colored sections. You must place exac",
     "released": "Apr 24, 2026",
-    "updated": 1779823077000,
-    "version": "1.3.0",
-    "installs": "100,000+",
-    "score": 4.2,
-    "ratings": 4267,
-    "reviews": 34,
+    "updated": 1780680987000,
+    "version": "1.4.0",
+    "installs": "500,000+",
+    "score": 4.7,
+    "ratings": 11467,
+    "reviews": 922,
     "developer": "Oakever Games",
     "developerWebsite": "https://oakevergames.com/",
     "genre": "Puzzle",
@@ -20,43 +20,38 @@
   "reviewAnalysis": {
     "total": 200,
     "starCounts": {
-      "1": 41,
-      "2": 24,
-      "3": 32,
-      "4": 16,
-      "5": 87
+      "1": 37,
+      "2": 27,
+      "3": 19,
+      "4": 23,
+      "5": 94
     },
-    "positiveRatio": 52,
-    "negativeRatio": 33,
+    "positiveRatio": 59,
+    "negativeRatio": 32,
     "eventMentions": [
       {
-        "text": "2nd updated: porn ads. updated review: added a star. the bug of repeating levels has been fixed -- i",
+        "text": "app needs some updates, it's just a repetitive pattern over and over again.😑💔 i can't enjoy the qu",
         "keywords": [
           "update"
         ]
       },
       {
-        "text": "alright, but the first time i failed to complete a grid the renewal option went round and round, sho",
+        "text": "new to me. so far no ads. cute and fun.",
         "keywords": [
           "new"
         ]
       },
       {
-        "text": "i do enjoy the game. there are way to many ads, but it's alright. but since the update, whenever i w",
-        "keywords": [
-          "update"
-        ]
-      },
-      {
-        "text": "better than expected, but it has problems. it's far t6o eager to interpret something as a double cli",
-        "keywords": [
-          "new"
-        ]
-      },
-      {
-        "text": "ads are broken. terrible app eventually the ads will stop giving the intended reward. instead you wi",
+        "text": "it's fun at first. but eventually it turns into a guessing game instead of a logic game. you have to",
         "keywords": [
           "event"
+        ]
+      },
+      {
+        "text": "thank you for the new update.it seems to have fixed the repeating puzzle problem.im up to 517 and i ",
+        "keywords": [
+          "update",
+          "new"
         ]
       }
     ]
@@ -65,15 +60,15 @@
     {
       "type": "major_update",
       "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 4 天前",
+      "detail": "最近更新: 0 天前",
       "confidence": "high"
     },
     {
       "type": "event_driven",
       "label": "🎉 限時活動引流",
-      "detail": "評論中 5 次提及活動/事件",
+      "detail": "評論中 4 次提及活動/事件",
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-31T15:26:43.075Z"
+  "analyzedAt": "2026-06-06T15:01:46.239Z"
 }

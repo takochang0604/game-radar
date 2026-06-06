@@ -1,0 +1,45 @@
+{
+  "appId": "6468921495",
+  "name": "Vita Mahjong",
+  "platform": "ios",
+  "market": "th",
+  "detail": {
+    "description": "Vita Mahjong is an Exclusive Solitaire Puzzle Game for Senior Citizens. We are thrilled to present the matching game that combines innovation with classic gameplay. It offers large tiles and a user-friendly, eye-friendly interface compatible with tablets and mobile phones of all sizes and shapes. Our goal is to provide a gaming experience that's relaxing yet mentally engaging, focusing particularly on older adults.\n\nAt Vita Studio, we have always been dedicated to crafting mobile games designed ",
+    "released": "2023-12-01T08:00:00Z",
+    "updated": "2026-05-30T00:25:49Z",
+    "version": "3.23.0",
+    "score": 4.9,
+    "reviews": 15609,
+    "developer": "Vita Studio",
+    "developerUrl": "https://apps.apple.com/th/developer/vita-studio/id1673880893?uo=4",
+    "genres": [
+      "Games",
+      "Card",
+      "Board",
+      "Entertainment"
+    ],
+    "releaseNotes": "-Bug fixes and performance improvements."
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 7 天前",
+      "confidence": "high"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:06:19.205Z"
+}

@@ -1,0 +1,54 @@
+{
+  "appId": "com.sinyee.babybus.village",
+  "name": "Little Panda’s Dream Town",
+  "platform": "android",
+  "market": "th",
+  "detail": {
+    "description": "Welcome to Baby Panda's Dream Town! It is a mini world full of surprises and fun. There are different places and jobs waiting for you to explore in the town! Start your career experience journey now!\n\nEXPLORE DIFFERENT PLACES\nIn Dream Town, you can change into your beautiful swimsuit and play in the pool with your friends any time you want. Go to the park with your friends and play on the slide and swing. There're 8 interesting places, such as the swimming pool, dessert shop, pet grooming salon ",
+    "released": "Aug 16, 2018",
+    "updated": 1775121790000,
+    "version": "8.73.05.00",
+    "installs": "50,000,000+",
+    "score": 4.2,
+    "ratings": 57728,
+    "reviews": 948,
+    "developer": "BabyBus",
+    "developerWebsite": "http://www.babybus.com",
+    "genre": "Educational"
+  },
+  "reviewAnalysis": {
+    "total": 200,
+    "starCounts": {
+      "1": 25,
+      "2": 11,
+      "3": 12,
+      "4": 14,
+      "5": 138
+    },
+    "positiveRatio": 76,
+    "negativeRatio": 18,
+    "eventMentions": [
+      {
+        "text": "new game! the game soo happy😍",
+        "keywords": [
+          "new"
+        ]
+      },
+      {
+        "text": "shy to the mole to you and 8 i really need to the mallet to save my new address is not the intended ",
+        "keywords": [
+          "new"
+        ]
+      }
+    ]
+  },
+  "inferredReasons": [
+    {
+      "type": "event_driven",
+      "label": "🎉 限時活動引流",
+      "detail": "評論中 2 次提及活動/事件",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:06:54.973Z"
+}

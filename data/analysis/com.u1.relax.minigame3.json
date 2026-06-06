@@ -2,35 +2,35 @@
   "appId": "com.u1.relax.minigame3",
   "name": "Mini Challenges: Calm Games",
   "platform": "android",
-  "market": "ph",
+  "market": "kr",
   "detail": {
     "description": "Welcome to Mini Challenges: Calm Games, a fun, offline collection of mini & classic games made for pure relaxation and easy fun.\n\nNo pressure. Just tap tap gameplay, funny moments, and oddly satisfying challenges that help you relax your brain. From quick puzzles to tricky mini games, this is the perfect casual game to play anytime you need a break.\n\n🎮 HOW IT WORKS\n\n- Tap the screen. That’s it.\n- Simple controls, zero learning curve\n- Short mini games you can play anytime, anywhere\n\n✨ FEATURES\n",
     "released": "Jan 22, 2026",
-    "updated": 1780051127000,
-    "version": "1.0.12",
+    "updated": 1780541134000,
+    "version": "1.0.16",
     "installs": "5,000,000+",
     "score": 4.8,
-    "ratings": 33010,
-    "reviews": 22,
+    "ratings": 45281,
+    "reviews": 9,
     "developer": "UltraPub",
     "developerWebsite": "http://ultrapub.net/",
     "genre": "Casual",
-    "recentChanges": "+ Game optimization!"
+    "recentChanges": "+ Game optimization!<br>+ New minigames"
   },
   "reviewAnalysis": {
     "total": 200,
     "starCounts": {
-      "1": 15,
-      "2": 4,
-      "3": 5,
-      "4": 18,
-      "5": 158
+      "1": 18,
+      "2": 5,
+      "3": 4,
+      "4": 21,
+      "5": 152
     },
-    "positiveRatio": 88,
-    "negativeRatio": 10,
+    "positiveRatio": 87,
+    "negativeRatio": 12,
     "eventMentions": [
       {
-        "text": "good game but i think add some new games",
+        "text": "it is nice playful but i'm angry because you have no complaints to tell about😂😁😀 this game so nic",
         "keywords": [
           "new"
         ]
@@ -47,9 +47,9 @@
     {
       "type": "word_of_mouth",
       "label": "💬 口碑爆發",
-      "detail": "4-5星評論佔 88%",
+      "detail": "4-5星評論佔 87%",
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-31T15:25:20.336Z"
+  "analyzedAt": "2026-06-06T15:01:53.801Z"
 }

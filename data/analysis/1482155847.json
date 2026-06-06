@@ -1,23 +1,23 @@
 {
   "appId": "1482155847",
-  "name": "Royal Match",
+  "name": "ロイヤルマッチ（Royal Match)",
   "platform": "ios",
-  "market": "us",
+  "market": "jp",
   "detail": {
-    "description": "King Robert needs your help to restore Royal Castle’s former glory. Break the obstacles and combine amazing power-ups to beat joyful and challenging levels! Keep unlocking wonderful areas by playing fun match-3 levels! Come along now and join the fun!\n\nOnce you play, you will come for Royal Match every day!\n\nRoyal Match features:\n• A new unique taste in match-3 levels with amusing obstacles and fun levels!\n• Collect loads of coins in bonus levels!\n• Lots of powerful boosters await for you to unl",
+    "description": "『簡単爽快マッチ3パズル＆王国リフォームゲーム』\nワクワクする仕掛け満載のステージが待っている！パズルをクリアして報酬を集め、あなたの力で王様の城を素敵にリフォームしよう！\n\n【パズル】\n◆カラフルピースのマッチ3パズル\n同じ色のピースを3つ以上繋げるだけ！\n指１本で遊べるスワイプ操作で、個性豊かなステージをクリアしよう！\n\n◆様々なステージがいっぱい！ \nボーナスステージで大量のコインを収集！ハラハラドキドキの時間制限ステージでピンチに陥った王様を助けよう！\nマッチ3パズルの初心者から上級者まで楽しめるステージが続々登場！\n\n◆スペシャルピースで気分爽快\nマッチさせる組み合わせを変えると、盤上のピースを一気に消せる“スペシャルピース”に大変身！\n強力なスペシャルピースを次々に生み出して、ステージ上の邪魔なモノを吹き飛ばそう！\n\n◆ブースターでサクッと攻略\nパズルを進めると、強力なブースターがアンロック！\n難しいステージでもブースターを炸裂させて活路を見つけよう！\n\n【リフォーム】\n◆王国を飾り付け\n報酬で手に入れたアイテムを使って、王様の城を再建しよう！\n完璧に仕上げれば、ボーナスと",
     "released": "2021-02-25T08:00:00Z",
     "updated": "2026-05-11T07:03:03Z",
     "version": "36263",
-    "score": 4.7,
-    "reviews": 3649865,
+    "score": 4.4,
+    "reviews": 620344,
     "developer": "Dream Games",
-    "developerUrl": "https://apps.apple.com/us/developer/dream-games/id1482155846?uo=4",
+    "developerUrl": "https://apps.apple.com/jp/developer/dream-games/id1482155846?uo=4",
     "genres": [
-      "Games",
-      "Casual",
-      "Puzzle"
+      "ゲーム",
+      "カジュアル",
+      "パズル"
     ],
-    "releaseNotes": "Are you ready for a spectacular new update?\n\n• Get ready for amazing 100 NEW LEVELS! Watch the TURTLE spread LEAVES across the board!\n\n• Explore the NEW AREA! Craft colorful celebration at the PARADE ATELIER!\n\nNew levels are coming in every two weeks! Be sure to update your game to get the latest content!"
+    "releaseNotes": "スペクタクルな新アップデートの準備はOK？\n\n• 感動の100ステージが新たに登場！　カメがボードに葉を広げる様子を見届けよう！\n\n• 新エリアを探検しよう！　パレードアトリエでカラフルなお祝いをクラフトしよう！\n\n2週間ごとに新ステージが登場予定！　ゲームをアップデートして最新コンテンツを手に入れよう！"
   },
   "reviewAnalysis": {
     "total": 0,
@@ -34,11 +34,11 @@
   },
   "inferredReasons": [
     {
-      "type": "major_update",
-      "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 5 天前",
-      "confidence": "high"
+      "type": "unknown",
+      "label": "🔍 待深入調查",
+      "detail": "未能自動推測原因，建議手動查看",
+      "confidence": "low"
     }
   ],
-  "analyzedAt": "2026-05-16T15:05:44.941Z"
+  "analyzedAt": "2026-06-06T15:07:07.064Z"
 }

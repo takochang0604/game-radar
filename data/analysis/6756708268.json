@@ -1,0 +1,45 @@
+{
+  "appId": "6756708268",
+  "name": "미르의 전설: 진",
+  "platform": "ios",
+  "market": "kr",
+  "detail": {
+    "description": "■ 태초의 미르, 진짜가 돌아왔다!\n액토즈의 미르1 IP 감성을 모바일로 담아낸 도트 MMORPG\n추억으로 남아 있던 그 시절의 미르를 이제 모바일에서 다시 만나보세요.\n\n■ 1부터 다시 시작되는 미르의 전설\n그 시절 몬스터와 아이템이 그대로!\n거미존, 해골존, 쌍두존, 악인존, 귀신존 등\n추억 속 사냥터와 전장의 긴장감을 다시 담아낸 \n\"미르의 전설: 진\"\n\n■ 미르의 전설: 진 주요 콘텐츠\n양전사, 음전사, 화술사, 천술사, 수도사, 지도사\n원작의 전투 감성과 손맛을 살린 「클래스 & 스킬」\n\n언제 어디서나 야차룰로 펼쳐지는 전투,\n막타 경험치와 긴장감이 살아있는 「PK 시스템」\n\n비천성을 놓고 펼쳐지는 문파 간의 치열한 전쟁\n대규모 「공성전」\n\n필드에서 드랍되는 아이템, 장비, 재료까지 \n모두 자유롭게 거래하는 「자유거래」\n\n함께 뭉칠수록 더 강해지는 전장 문파무공부터 문파보스,\n동맹문파, 적대문파까지 「문파 콘텐츠」",
+    "released": "2026-06-03T07:00:00Z",
+    "updated": "2026-06-03T14:40:45Z",
+    "version": "1.0.14",
+    "score": 2.5,
+    "reviews": 34,
+    "developer": "VFive Games Co.,Ltd.",
+    "developerUrl": "https://apps.apple.com/kr/developer/vfive-games-co-ltd/id1712231505?uo=4",
+    "genres": [
+      "게임",
+      "엔터테인먼트",
+      "롤플레잉",
+      "액션"
+    ],
+    "releaseNotes": "- 정식 출시"
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 3 天前",
+      "confidence": "high"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:03:44.872Z"
+}

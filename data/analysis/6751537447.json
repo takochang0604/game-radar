@@ -6,17 +6,17 @@
   "detail": {
     "description": "Snake Puzzle: Slither to Eat は、戦略的思考と計画力を試す、わくわくしながらリラックスできるパズルゲームです！\n\nヘビを操作してシンプルだけどトリッキーなパズルを解き、リンゴを食べて体を伸ばしましょう。目標はヘビを十分に長くしてテレポートポータルに到達することです。リンゴを食べるたびに体が伸び、動くたびに慎重にルートを考える必要があります。\n\n主な特徴:\n\n戦略的ゲームプレイ: ヘビを導いてパズルを解き、リンゴを食べて成長！一歩一歩がポータルへの道。\n\n段階的な難易度: 長くなるほどパズルは複雑に！クリアの達成感もアップ。\n\n楽しく中毒性あり: 簡単に学べて奥深い仕組みで何度でも遊びたくなる。\n\nリラックスしつつ没頭: 脳を刺激しながら癒される、思考派プレイヤーに最適。\n\n短時間のパズル体験にも、じっくり挑戦にも最適。Snake Puzzle: Slither to Eat で成長しながらポータルを目指そう！最後までたどり着けますか？",
     "released": "2025-08-30T07:00:00Z",
-    "updated": "2026-05-29T06:55:37Z",
-    "version": "2.31",
+    "updated": "2026-06-03T04:30:13Z",
+    "version": "2.32",
     "score": 4.4,
-    "reviews": 426,
+    "reviews": 429,
     "developer": "Superboost Soft Limited",
     "developerUrl": "https://apps.apple.com/jp/developer/superboost-soft-limited/id1879733249?uo=4",
     "genres": [
       "ゲーム",
       "カジュアル"
     ],
-    "releaseNotes": "- New levels for more fun and challenge!"
+    "releaseNotes": "- Stability improvements"
   },
   "reviewAnalysis": {
     "total": 0,
@@ -35,9 +35,9 @@
     {
       "type": "major_update",
       "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 2 天前",
+      "detail": "最近更新: 3 天前",
       "confidence": "high"
     }
   ],
-  "analyzedAt": "2026-05-31T15:25:57.172Z"
+  "analyzedAt": "2026-06-06T15:05:28.223Z"
 }

@@ -2,16 +2,16 @@
   "appId": "com.wood.bolt.wordle.screw.nuts.puzzle",
   "name": "Woodle Screw™ Pin Nuts & Bolts",
   "platform": "android",
-  "market": "jp",
+  "market": "tw",
   "detail": {
-    "description": "🔩 Unscrewing puzzles? 🔑 Hunting for keys? We’ve got it all!\n🧩 Tired of just clearing levels? 🏙️ How about rebuilding an entire CITY? \nGet ready for a puzzle game with a bigger purpose! ✨\n\nIn Woodle Screw™ Pin Nuts & Bolts, your puzzle-solving skills get a major upgrade. It’s the addictive screw puzzle you love, but now every victory directly contributes to rebuilding a magnificent city, turning your wins into visible, satisfying progress.\n\nThis adds a whole new dimension to the game. You'll ",
+    "description": "😫 Stuck in a loop of endless tasks and screen fatigue?\n🧩 Unwind with Woodle Screw™! Experience the ultimate wood puzzle where satisfying unscrewing mechanics meet addictive match-3 clearing. Remove the pins, match the colors, and let the ASMR sounds melt your stress away.\n\n🕹️ Gameplay\nIn this ultimate screw game, your goal is to clear the board, collect keys, and rebuild an entire city.\n· Match 3 screws of the same color to clear them from the board.\n· Plan your moves carefully before unscrew",
     "released": "Oct 23, 2024",
     "updated": 1778728486000,
     "version": "1.3.9",
     "installs": "10,000,000+",
-    "score": 4.5,
-    "ratings": 508510,
-    "reviews": 938,
+    "score": 4.8,
+    "ratings": 516007,
+    "reviews": 379,
     "developer": "LifePulse Puzzle Game Studio",
     "developerWebsite": "https://longsealink.com/",
     "genre": "Puzzle",
@@ -20,15 +20,27 @@
   "reviewAnalysis": {
     "total": 200,
     "starCounts": {
-      "1": 44,
+      "1": 41,
       "2": 12,
-      "3": 15,
-      "4": 9,
-      "5": 120
+      "3": 12,
+      "4": 11,
+      "5": 124
     },
-    "positiveRatio": 65,
-    "negativeRatio": 28,
+    "positiveRatio": 68,
+    "negativeRatio": 27,
     "eventMentions": [
+      {
+        "text": "ads doesn't work for more options and tools. i emailed them and still it not working. other thing; t",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "the game was advertised as no ads and no wifi needed, so i downloaded the game and started playing. ",
+        "keywords": [
+          "new"
+        ]
+      },
       {
         "text": "i think apps should allow the patron to play their games for awhile first .every game has as good fi",
         "keywords": [
@@ -46,28 +58,10 @@
         "keywords": [
           "event"
         ]
-      },
-      {
-        "text": "another game where the second ad to add the 4th slot malfunctioned and had to close the program so u",
-        "keywords": [
-          "new"
-        ]
-      },
-      {
-        "text": "passable playable but only if you watch adds. eventually we get tired of them and move on to somethi",
-        "keywords": [
-          "event"
-        ]
       }
     ]
   },
   "inferredReasons": [
-    {
-      "type": "major_update",
-      "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 12 天前",
-      "confidence": "medium"
-    },
     {
       "type": "event_driven",
       "label": "🎉 限時活動引流",
@@ -75,5 +69,5 @@
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-26T12:54:13.371Z"
+  "analyzedAt": "2026-06-06T15:07:58.379Z"
 }

@@ -6,12 +6,12 @@
   "detail": {
     "description": "Dive into the Enchanted Realm of Magic Sort: A Mystical Water Sort Adventure!\n\n🎩✨ Discover Magic Sort! Mix colors in a world where every splash of water is a step into mystery. This isn’t just a game; it’s a journey through puzzles that sparkle with charm, inviting you to sort, match, and puzzle your way through.\n\n🌈 Quick Play Guide 🌈\n\nStart Simple: Tap a bottle to pick it up, and another to pour the water. Organize the water so each bottle has only one color.\nThink Ahead: Pour water only if ",
     "released": "Jun 26, 2024",
-    "updated": 1779560124000,
-    "version": "0.0.2578",
+    "updated": 1780685132000,
+    "version": "0.0.2618",
     "installs": "10,000,000+",
     "score": 4,
-    "ratings": 269903,
-    "reviews": 150,
+    "ratings": 279032,
+    "reviews": 152,
     "developer": "Grand Games A.Ş.",
     "developerWebsite": "https://grand.gs",
     "genre": "Puzzle",
@@ -20,23 +20,41 @@
   "reviewAnalysis": {
     "total": 200,
     "starCounts": {
-      "1": 57,
-      "2": 21,
-      "3": 14,
-      "4": 21,
-      "5": 87
+      "1": 53,
+      "2": 20,
+      "3": 20,
+      "4": 15,
+      "5": 92
     },
     "positiveRatio": 54,
-    "negativeRatio": 39,
+    "negativeRatio": 37,
     "eventMentions": [
       {
-        "text": "i loved it initially, but now it's just a bit repetitive, always the same kind of levels. i'm a bit ",
+        "text": "a new favorite!",
         "keywords": [
           "new"
         ]
       },
       {
-        "text": "love this game. until it keeps wanting \"updates\" that are beyond intrusive. just let me play the gam",
+        "text": "just found out this app is an older version and you have to manually upgrade to the new version",
+        "keywords": [
+          "new"
+        ]
+      },
+      {
+        "text": "love it. just started playing will give you any &.all updates.",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "all dark when i open it today, i tried to update and same all dark after updated and restart my phon",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "after this recent update, i have lost access to my team, to my card collection, to this week's chall",
         "keywords": [
           "update"
         ]
@@ -47,15 +65,15 @@
     {
       "type": "major_update",
       "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 7 天前",
+      "detail": "最近更新: 0 天前",
       "confidence": "high"
     },
     {
       "type": "event_driven",
       "label": "🎉 限時活動引流",
-      "detail": "評論中 2 次提及活動/事件",
+      "detail": "評論中 5 次提及活動/事件",
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-31T15:26:06.631Z"
+  "analyzedAt": "2026-06-06T15:05:43.200Z"
 }

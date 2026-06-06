@@ -1,0 +1,42 @@
+{
+  "appId": "com.bandainamcoent.gget_JP",
+  "name": "SDガンダム ジージェネレーション エターナル",
+  "platform": "android",
+  "market": "jp",
+  "detail": {
+    "description": "The latest installment in the \"SD Gundam G Generation\" series is coming to smartphones!\n\nOver 940 mobile suits and characters from 98 Gundam series throughout history are gathered!\n\n【Game Features】\n■Number of Participating Series: 98 Series, Over 940 Mobile Suits\nOver 940 mobile suits from throughout the history of Gundam are playable.\nCombine characters and mobile suits to create your own ultimate army and sortie onto the battlefield!\n\n*Participating series, mobile suits, and characters will be",
+    "released": "Apr 13, 2025",
+    "updated": 1779184485000,
+    "version": "2.2.0",
+    "installs": "1,000,000+",
+    "score": 4,
+    "ratings": 54261,
+    "reviews": 6478,
+    "developer": "Bandai Namco Entertainment Inc.",
+    "developerWebsite": "https://gget.ggame.jp/jp/",
+    "genre": "Simulation",
+    "recentChanges": "・開発経路図にユニット図鑑の登録状況の表示を追加<br>・開発経路図の開発先ユニット情報画面に「強化」ボタンなどを追加<br>・ヒストリーステージに関する画面表示の改修<br>・ユニットのSSP化画面のレイアウト変更<br>・アプリアイコンおよびタイトル画面の更新<br>・その他軽微な改善と不具合の修正"
+  },
+  "reviewAnalysis": {
+    "total": 27,
+    "starCounts": {
+      "1": 4,
+      "2": 1,
+      "3": 2,
+      "4": 4,
+      "5": 16
+    },
+    "positiveRatio": 74,
+    "negativeRatio": 19,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "unknown",
+      "label": "🔍 待深入調查",
+      "detail": "未能自動推測原因，建議手動查看",
+      "confidence": "low"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:03:42.398Z"
+}

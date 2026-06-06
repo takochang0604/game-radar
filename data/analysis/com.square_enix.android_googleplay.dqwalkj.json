@@ -6,16 +6,16 @@
   "detail": {
     "description": "Dragon Quest Walk, a role-playing location-based game app that you can enjoy while walking!\nEnjoy an adventure with your friends in the world of Dragon Quest RPG while traveling in the real world!\n\n[You can explore the world of Dragon Quest! Manage your health while enjoying RPG! ]\n\nWhen you move by walking in the real world, your character will also move accordingly.\nEveryday transportation becomes an adventure!\n\nThe life log function ``Arukunsu W'' records the results of your walking and allow",
     "released": "Sep 10, 2019",
-    "updated": 1779691595000,
-    "version": "7.18.1",
+    "updated": 1780399427000,
+    "version": "7.19.0",
     "installs": "1,000,000+",
     "score": 3.5,
-    "ratings": 77067,
-    "reviews": 29774,
+    "ratings": 77098,
+    "reviews": 29789,
     "developer": "SQUARE ENIX Co.,Ltd.",
     "developerWebsite": "https://walk.dragonquest.jp/web/contact/",
     "genre": "Role Playing",
-    "recentChanges": "・アプリアイコンの更新<br>・その他ゲーム内調整"
+    "recentChanges": "・一部不具合の修正<br>・その他ゲーム内調整"
   },
   "reviewAnalysis": {
     "total": 103,
@@ -68,7 +68,7 @@
     {
       "type": "major_update",
       "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 6 天前",
+      "detail": "最近更新: 4 天前",
       "confidence": "high"
     },
     {
@@ -78,5 +78,5 @@
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-31T15:25:44.366Z"
+  "analyzedAt": "2026-06-06T15:03:19.906Z"
 }

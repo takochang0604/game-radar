@@ -6,58 +6,59 @@
   "detail": {
     "description": "ALL FOR THE CROWN!\n\nBuild a formidable team, attack enemy towers, and use strategy skills to defend your own in multiplayer PvP card battles. Unlock 100+ unique cards, build an unrivalled battle deck, and defend your King’s Tower using strategy, wit, and Skeletons.\n\nClash Royale is free to download and play, however, some game items can also be purchased for real money (including random items). If you don't want to purchase game items for real money, please disable in-app purchases in your devic",
     "released": "Mar 1, 2016",
-    "updated": 1777038814000,
-    "version": "140593015",
+    "updated": 1779444975000,
+    "version": "150535003",
     "installs": "500,000,000+",
-    "score": 4.501503,
-    "ratings": 41337331,
-    "reviews": 969305,
+    "score": 4.5,
+    "ratings": 41421917,
+    "reviews": 969862,
     "developer": "Supercell",
     "developerWebsite": "https://help.supercellsupport.com/clash-royale/en/",
     "genre": "Strategy",
-    "recentChanges": "Various minor bug fixes and improvements"
+    "recentChanges": "New update: More Ways to Play!<br>• NEW EVOLUTION: Princess, shoots frost arrows that slow enemies down<br>• NEW HERO: Tombstone, unleashes Tomb Queen<br>• NEW GAME MODE: Princess Gambit – no King Tower, no deck draft<br>• NEW Collection Level, replacing King’s Journey<br>• Seasonal Trophy Road is BACK, with a twist<br>• COMING IN JULY: New Card + C.H.A.O.S 2.0"
   },
   "reviewAnalysis": {
-    "total": 100,
+    "total": 200,
     "starCounts": {
-      "1": 44,
-      "2": 3,
-      "3": 6,
-      "4": 6,
-      "5": 41
+      "1": 84,
+      "2": 7,
+      "3": 13,
+      "4": 8,
+      "5": 88
     },
-    "positiveRatio": 47,
-    "negativeRatio": 47,
+    "positiveRatio": 48,
+    "negativeRatio": 46,
     "eventMentions": [
       {
-        "text": "worse update of the year",
+        "text": "you guys have been on a roll of just messing up a good thing. merge definitely went down the drain w",
         "keywords": [
-          "update"
+          "new"
         ]
       },
       {
-        "text": "why so many updates",
+        "text": "really fun when you dont take it seriously. dont bother about your trophy count. over leveled or bet",
         "keywords": [
-          "update"
+          "event"
         ]
       },
       {
-        "text": "game has too many exploits especially now with the new updates. some people take advantage of it and",
+        "text": "new update was too broken card...and absolutely pay to win",
         "keywords": [
           "update",
           "new"
         ]
       },
       {
-        "text": "here i am playing game for 6 years and still have to play with limited cards because of lvl 15 16. t",
+        "text": "just recycled content. nothing new. updates take way too long to come out. very dissapointing, game ",
         "keywords": [
-          "limited"
+          "update",
+          "new"
         ]
       },
       {
-        "text": "long to update and there are too many!!!but it is fun",
+        "text": "absolutely not recommended unless you like aggressive monetization and feedback loops to create addi",
         "keywords": [
-          "update"
+          "event"
         ]
       }
     ]
@@ -70,5 +71,5 @@
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-11T11:40:40.302Z"
+  "analyzedAt": "2026-06-06T15:06:23.777Z"
 }

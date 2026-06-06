@@ -1,0 +1,42 @@
+{
+  "appId": "6762239161",
+  "name": "Grassland Legends",
+  "platform": "ios",
+  "market": "vn",
+  "detail": {
+    "description": "Build your tribe's camp on the grassland, recruit heroes, conquer far and wide, and defend your homeland!",
+    "released": "2026-06-01T07:00:00Z",
+    "updated": "2026-06-01T13:45:06Z",
+    "version": "1.0.3",
+    "score": 3.3,
+    "reviews": 26,
+    "developer": "Changchun Mengju Network Technology Co., Ltd.",
+    "developerUrl": "https://apps.apple.com/vn/developer/changchun-mengju-network-technology-co-ltd/id1893509006?uo=4",
+    "genres": [
+      "Games"
+    ],
+    "releaseNotes": "Strengthen localization efforts"
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 5 天前",
+      "confidence": "high"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:06:14.538Z"
+}

@@ -2,23 +2,23 @@
   "appId": "6756482832",
   "name": "Brain Puzzle 3: Crazy Mind",
   "platform": "ios",
-  "market": "jp",
+  "market": "vn",
   "detail": {
-    "description": "警告：このゲームは、イライラ、突然の爆笑、そして友達に見せびらかしたくなる衝動を引き起こす可能性があります！\n\n退屈さよサヨナラ！大人気パズルシリーズが完全新作『Crazy Mind』で帰ってきた！私たちは「退屈」と「鈍い反応」を治療するために、数え切れないほどの難問を準備しました。これは試験ではなく、楽しさ満載のメンタルアドベンチャーです！\n\n 自分は十分頭がいいと思ってる？それはまだ『Crazy Mind』を試していないからだよ！\n\n全てがより大きく、よりワイルドに、そしてよりエキサイティングに！準備はいい？君の脳が究極のローラーコースターに乗る時が来た！\n\n ゲーム特徴：\n\n巨大で奇妙なレベルのコレクション：目が回るようなビジュアルパズル、即反応チャレンジ、脳が溶ける論理トラップ…想像できるものはほぼ全て入ってる！「待って、それあり？」と叫ぶこと間違いなし！\n\n洗練されたシンプルインターフェース：シリーズ通りのクリーンでミニマルなデザインだから、パズルを解くことと純粋な思考の楽しみに集中できる。\n\n深い認知探索：パターン認識から拡散思考まで、段階的に自らの心の広さと深さを探検でき",
+    "description": "Warning: This game may cause intermittent frustration, sudden bursts of laughter, and a strong desire to show off to your friends!\n\nSay goodbye to boredom! The Brain Puzzle series is back with a brand-new sequel, Crazy Mind—and this time, it's for real!  We've prepared countless mind-bending levels designed specifically to cure \"\"boredom\"\" and \"\"slow reflexes.\"\" Don't worry, this isn't an exam—it's a fun-filled mental adventure!\n\n Think you're smart enough? That's because you haven't tried Crazy",
     "released": "2025-12-20T08:00:00Z",
-    "updated": "2026-05-29T18:45:34Z",
-    "version": "1.0.7",
-    "score": 4.5,
-    "reviews": 2213,
+    "updated": "2026-06-04T18:55:52Z",
+    "version": "1.0.8",
+    "score": 4.6,
+    "reviews": 1303,
     "developer": "SmallStep Dev Team",
-    "developerUrl": "https://apps.apple.com/jp/developer/smallstep-dev-team/id1473677344?uo=4",
+    "developerUrl": "https://apps.apple.com/vn/developer/smallstep-dev-team/id1473677344?uo=4",
     "genres": [
-      "ゲーム",
-      "パズル",
-      "カジュアル",
-      "エンターテインメント"
+      "Games",
+      "Puzzle",
+      "Casual",
+      "Entertainment"
     ],
-    "releaseNotes": "• 一部のバグを修正"
+    "releaseNotes": "• Fixed some bugs\n• Improved game stability"
   },
   "reviewAnalysis": {
     "total": 0,
@@ -41,5 +41,5 @@
       "confidence": "high"
     }
   ],
-  "analyzedAt": "2026-05-31T15:26:09.144Z"
+  "analyzedAt": "2026-06-06T15:02:38.490Z"
 }

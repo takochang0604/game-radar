@@ -1,0 +1,42 @@
+{
+  "appId": "6670792878",
+  "name": "POOLS™",
+  "platform": "ios",
+  "market": "tw",
+  "detail": {
+    "description": "探索、欣賞、傾聽。就這樣。\n\n詭異。平靜。令人不安。沉浸其中。\n\nPOOLS 不是一款傳統的遊戲。它節奏緩慢、富有思考性、刻意保持簡單，就像在虛擬博物館中漫步。\n不要著急。深呼吸。POOLS 會慢慢展開，回報耐心與安靜的專注。\n\n沒有怪物追逐你，也沒有突然的驚嚇。\n但有時你可能會感到壓迫感，彷彿迷路、陷入黑暗或被狹窄的空間包圍，同時又被這些介於現實與夢境之間的空間所吸引。\n\n沒有傳統意義上的故事。\n但隨著探索的深入，你會發現周圍的世界開始改變。\n房間看起來、感覺上，都變得不同。\n\n遊戲包含六個章節，每個章節約需 10 到 30 分鐘。\n\n靈感來自網路上的現象「Liminal Spaces」、「Found Footage」和「The Backrooms」，特別是「Poolrooms」的概念。該概念的原始創作者之一是藝術家 **Jared Pike**。",
+    "released": "2025-11-06T08:00:00Z",
+    "updated": "2026-04-01T15:21:47Z",
+    "version": "3.1",
+    "score": 4.6,
+    "reviews": 111,
+    "developer": "Tensori",
+    "developerUrl": "https://apps.apple.com/tw/developer/tensori/id1767614989?uo=4",
+    "genres": [
+      "遊戲"
+    ],
+    "releaseNotes": "- Added the ability to crouch! (double-tap the screen to activate) \n- Added \"Ultra\" graphics option\n- Fixed a bug in Chapter 2 causing players to fall through the map\n- Various UI fixes, including sometimes accidentally selecting UI elements and unable to scroll due to items being selected.\n- Various small fixes, including rewind audio not triggering underwater and fixed graphical glitches on the duck."
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "unknown",
+      "label": "🔍 待深入調查",
+      "detail": "未能自動推測原因，建議手動查看",
+      "confidence": "low"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:02:33.532Z"
+}

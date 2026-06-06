@@ -1,0 +1,41 @@
+{
+  "appId": "com.playnest.jadecourt",
+  "name": "亂世美人傳",
+  "platform": "android",
+  "market": "tw",
+  "detail": {
+    "description": "In a chaotic world where heroes rise and fall, you will start from a small force, recruiting historical generals, cultivating beauties, managing cities, strategizing, and engaging in siege battles to gradually build your powerful empire.\n\n★ Game Features\n\n▶ Legendary Generals from Across Eras: Build Your Legendary Lineup\nMultiple ancient beauties and generals, including Xi Shi, Wang Zhaojun, Da Qiao, and Hua Mulan, join the battle.\n\nWhether it's the Three Kingdoms or ancient dynasties, the stori",
+    "released": "Nov 28, 2025",
+    "updated": 1777523088000,
+    "version": "1.0.15",
+    "installs": "50,000+",
+    "score": 4.8,
+    "ratings": 2446,
+    "reviews": 156,
+    "developer": "PLAYNEST LIMITED",
+    "genre": "Strategy",
+    "recentChanges": "在群雄並起的亂世，你將從小勢力出發<br>透過招募歷史名將、培養美人、經營城池"
+  },
+  "reviewAnalysis": {
+    "total": 10,
+    "starCounts": {
+      "1": 2,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 5
+    },
+    "positiveRatio": 70,
+    "negativeRatio": 20,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "unknown",
+      "label": "🔍 待深入調查",
+      "detail": "未能自動推測原因，建議手動查看",
+      "confidence": "low"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:06:38.015Z"
+}

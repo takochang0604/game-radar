@@ -1,0 +1,50 @@
+{
+  "appId": "6762107883",
+  "name": "Soul Land: Awakening World",
+  "platform": "ios",
+  "market": "th",
+  "detail": {
+    "description": "Dual-authorized by the original anime and novel, the first-ever 3D Open-World MMORPG of the \"Soul Land\" IP is now available across all platforms! It's time to reshape the massive world of Soul Land and redefine the absolute pinnacle of IP quality!\n\nThe moment of awakening has arrived. Welcome to Soul Land: Awakening World! From the instant the first spark of Soul Power stirs within you, your destiny is set: to stand at the heart of the storm and become the legend itself.\n\nThe old laws have crumb",
+    "released": "2026-06-02T07:00:00Z",
+    "updated": "2026-06-02T07:00:00Z",
+    "version": "2.5.3",
+    "score": 4.6,
+    "reviews": 1075,
+    "developer": "G-LI NETWORK TECHNOLOGY CO. LIMITED",
+    "developerUrl": "https://apps.apple.com/th/developer/g-li-network-technology-co-limited/id1625020963?uo=4",
+    "genres": [
+      "Games",
+      "Role-Playing",
+      "Action"
+    ],
+    "releaseNotes": "Official Launch Time:2026/06/03\n\nDear Spirimaster,\n\nSoul Land: Awakening World—the first-ever 3D immersive MMORPG officially licensed by both the Soul Land anime and novel creators—is now live in Open Beta! Prepare yourself, because this time, we are completely revolutionizing the Soul Land universe!\n\nThe moment of awakening has arrived. Welcome to Soul Land. As your first Soul Power stirs, you are destined to stand at the center of the world and forge your own path to legend.\n\nThe traditional rules have been reshaped, bringing forth new opportunities. In this world, every forest, lake, unique Spirimon, and Spirit, alongside the legendary Seven Monsters and Spirit Temple Elders, will unfold their stories before you. Your journey to writing your own godhood epic begins here.\n\nTo celebrate the launch and show our appreciation for your anticipation and support for Soul Land: Awakening World, we have prepared a series of launch bonuses to assist you on your spirit-hunting journey.\n\nHalos gleam, Ruins unfold—more features and surprises await your discovery in-game."
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "new_release",
+      "label": "🆕 新遊戲上線熱度",
+      "detail": "上架 4 天，評分 4.6",
+      "confidence": "high"
+    },
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 4 天前",
+      "confidence": "high"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:03:27.563Z"
+}

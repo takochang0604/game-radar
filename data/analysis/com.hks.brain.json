@@ -1,0 +1,79 @@
+{
+  "appId": "com.hks.brain",
+  "name": "Brainstorming Master",
+  "platform": "android",
+  "market": "vn",
+  "detail": {
+    "description": "Relax your brain and find the perfect fit! Welcome to Brainstorming Master, a satisfying puzzle game where logic meets organization. 🧩✨\n\nAre you good at spotting details? In Brainstorming Master, your goal is simple yet addictive: look at the empty outlines, find the matching items, and drag them to the correct spots. It’s like a relaxing jigsaw puzzle, but with everything from fashion items to delicious cakes!\n\n🎮 Gameplay Features:\n\nShape Matching Fun: Observe the silhouettes and outlines car",
+    "released": "Mar 1, 2026",
+    "updated": 1779943531000,
+    "version": "1.0.9",
+    "installs": "100,000+",
+    "score": 4.7,
+    "ratings": 2210,
+    "reviews": 183,
+    "developer": "Hks Games",
+    "developerWebsite": "http://hksgames.com",
+    "genre": "Puzzle",
+    "recentChanges": "Add levels"
+  },
+  "reviewAnalysis": {
+    "total": 79,
+    "starCounts": {
+      "1": 11,
+      "2": 4,
+      "3": 3,
+      "4": 6,
+      "5": 55
+    },
+    "positiveRatio": 77,
+    "negativeRatio": 19,
+    "eventMentions": [
+      {
+        "text": "i've completed this....more!!! why is there no more of this!? my heart is breaking! are there games ",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "honestly it is a great game but as i progress in the game it closes by itself saying that maybe ther",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "it's a good and interesting game just that you have to update after each level but it's really worth",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "this game got me hooked. i never played any game like this ever. the best game ever played. but i co",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "i'm in love with the art!! when will you add new levels?",
+        "keywords": [
+          "new"
+        ]
+      }
+    ]
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 9 天前",
+      "confidence": "medium"
+    },
+    {
+      "type": "event_driven",
+      "label": "🎉 限時活動引流",
+      "detail": "評論中 5 次提及活動/事件",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:07:29.075Z"
+}

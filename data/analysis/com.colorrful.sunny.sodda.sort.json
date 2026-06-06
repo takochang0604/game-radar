@@ -1,0 +1,72 @@
+{
+  "appId": "com.colorrful.sunny.sodda.sort",
+  "name": "Colorful Soda Sort",
+  "platform": "android",
+  "market": "us",
+  "detail": {
+    "description": "Why Choose Colorful Soda Sort?\n\nBrain Training\nSort sodas and solve puzzles at the same time. Train your logic and observation skills while having fun.\n\nStress Relief\nTap the bottles and watch colorful sodas flow smoothly. Release pressure and relax instantly in a calm, satisfying way.\n\nVisual & Audio Pleasure\nVibrant soda colors + realistic bottle clinking sounds + immersive background music = full sensory enjoyment.\n\n🌟 Game Highlights\nEndless Levels\nConstantly updated soda-sort levels and lim",
+    "released": "Feb 5, 2026",
+    "updated": 1772541291000,
+    "version": "1.0.2",
+    "installs": "100,000+",
+    "score": 4.5,
+    "ratings": 16957,
+    "reviews": 1056,
+    "developer": "Space Kraft Media",
+    "developerWebsite": "https://colorfulsodasort.com",
+    "genre": "Casual"
+  },
+  "reviewAnalysis": {
+    "total": 200,
+    "starCounts": {
+      "1": 113,
+      "2": 11,
+      "3": 7,
+      "4": 12,
+      "5": 57
+    },
+    "positiveRatio": 35,
+    "negativeRatio": 62,
+    "eventMentions": [
+      {
+        "text": "just started playing, let's see if i really can cash out. i give an update review to see how authent",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "it's a great game. i haven't seen any money hit my account yet but to be determined..... update no p",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "the game is fun. the first 2 chump change withdrawals are under review; so i don't know how long it ",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "waiting to see if the cash withdrawal is real or not i will update..",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "this game is colorful i really like it everyone needs to start this new game out i think you guys ar",
+        "keywords": [
+          "new"
+        ]
+      }
+    ]
+  },
+  "inferredReasons": [
+    {
+      "type": "event_driven",
+      "label": "🎉 限時活動引流",
+      "detail": "評論中 5 次提及活動/事件",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:06:50.051Z"
+}

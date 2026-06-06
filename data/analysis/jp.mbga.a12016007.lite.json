@@ -10,8 +10,8 @@
     "version": "1.30.0",
     "installs": "1,000,000+",
     "score": 3.9,
-    "ratings": 386964,
-    "reviews": 205225,
+    "ratings": 386879,
+    "reviews": 205173,
     "developer": "mobage",
     "developerWebsite": "http://cygames.co.jp/",
     "genre": "Role Playing"
@@ -74,5 +74,5 @@
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-22T11:40:39.169Z"
+  "analyzedAt": "2026-06-06T15:04:42.601Z"
 }

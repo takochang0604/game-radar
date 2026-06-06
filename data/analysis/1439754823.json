@@ -1,0 +1,44 @@
+{
+  "appId": "1439754823",
+  "name": "光与夜之恋",
+  "platform": "ios",
+  "market": "cn",
+  "detail": {
+    "description": "《光与夜之恋》是一款东方都市背景下的高沉浸互动恋爱手游，汇聚国内外知名CV、专业级作曲家、以及超豪华画师&编剧团队，倾力营造与众不同的真实恋爱氛围。丰富互动、多线结局，带你走向属于自己的命定相遇！",
+    "released": "2021-06-23T07:00:00Z",
+    "updated": "2026-06-05T06:02:49Z",
+    "version": "1.8.0811",
+    "score": 4.4,
+    "reviews": 484574,
+    "developer": "Tencent Mobile Games",
+    "developerUrl": "https://apps.apple.com/cn/developer/tencent-mobile-games/id446324237?uo=4",
+    "genres": [
+      "游戏",
+      "模拟",
+      "角色扮演"
+    ],
+    "releaseNotes": "优化游戏体验，预埋后续开发所需的功能与资源"
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 1 天前",
+      "confidence": "high"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:05:45.705Z"
+}

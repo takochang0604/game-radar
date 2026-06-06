@@ -1,0 +1,49 @@
+{
+  "appId": "6767191802",
+  "name": "Vườn Hoa Hạnh Phúc - Gzone",
+  "platform": "ios",
+  "market": "vn",
+  "detail": {
+    "description": "Quyết định phê duyệt nội dung kịch bản trò chơi điện tử trên mạng G1: Số 223/QĐ-PTTH&TTĐT ngày 05/05/2026\n\nVườn Hoa Hạnh Phúc – Khu Vườn Hoa Thư Giãn Của Riêng Bạn\n\nBước vào thế giới hoa đầy màu sắc của Vườn Hoa Hạnh Phúc – nơi bạn có thể tự tay chăm sóc khu vườn mơ ước và điều hành cửa hàng hoa xinh xắn của riêng mình!\nTận hưởng lối chơi nhẹ nhàng kết hợp giữa quản lý vườn hoa và vận hành cửa hàng, mang đến trải nghiệm thư giãn nhưng vẫn đầy thú vị mỗi ngày dù bạn ngại giao tiếp!\n\nThiết Kế Khu ",
+    "released": "2026-05-29T07:00:00Z",
+    "updated": "2026-06-05T01:55:06Z",
+    "version": "1.0.42",
+    "score": 4.9,
+    "reviews": 1527,
+    "developer": "GZONE JSC",
+    "developerUrl": "https://apps.apple.com/vn/developer/gzone-jsc/id1715449230?uo=4",
+    "genres": [
+      "Games",
+      "Simulation"
+    ],
+    "releaseNotes": "Cập nhật sự kiện và tối ưu tính năng"
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "new_release",
+      "label": "🆕 新遊戲上線熱度",
+      "detail": "上架 8 天，評分 4.9",
+      "confidence": "high"
+    },
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 1 天前",
+      "confidence": "high"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:04:59.825Z"
+}

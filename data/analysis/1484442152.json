@@ -9,7 +9,7 @@
     "updated": "2026-05-13T05:49:49Z",
     "version": "26.04.02",
     "score": 4.3,
-    "reviews": 85205,
+    "reviews": 85306,
     "developer": "Metacore Games Oy",
     "developerUrl": "https://apps.apple.com/jp/developer/metacore-games-oy/id974585521?uo=4",
     "genres": [
@@ -33,11 +33,11 @@
   },
   "inferredReasons": [
     {
-      "type": "major_update",
-      "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 3 天前",
-      "confidence": "high"
+      "type": "unknown",
+      "label": "🔍 待深入調查",
+      "detail": "未能自動推測原因，建議手動查看",
+      "confidence": "low"
     }
   ],
-  "analyzedAt": "2026-05-16T15:05:23.020Z"
+  "analyzedAt": "2026-06-06T15:06:35.832Z"
 }

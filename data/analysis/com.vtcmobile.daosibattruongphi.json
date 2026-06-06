@@ -1,0 +1,46 @@
+{
+  "appId": "com.vtcmobile.daosibattruongphi",
+  "name": "Đạo Sĩ Bắt Trương Phi",
+  "platform": "android",
+  "market": "vn",
+  "detail": {
+    "description": "Taoist Master Captures Zhang Fei: The #1 King of Spells in Vietnam\n\nA realm overflowing with evil energy gradually unfolds, where demons lurk in every corner and magical formations blaze amidst the thick fog. You play as a Taoist master walking the line between yin and yang, drawing talismans, setting up altars, and sealing awakened, frenzied spirits. From the blazing spiritual fire at the altar to the breathtaking sealing moments, every experience is shrouded in mystery and intense tension. The",
+    "released": "May 27, 2026",
+    "updated": 1779865859000,
+    "version": "1.1.4",
+    "installs": "10,000+",
+    "score": 4.8,
+    "ratings": 1499,
+    "reviews": 558,
+    "developer": "VTC Mobile - Mobile Game Center",
+    "genre": "Role Playing"
+  },
+  "reviewAnalysis": {
+    "total": 2,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2
+    },
+    "positiveRatio": 100,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "new_release",
+      "label": "🆕 新遊戲上線熱度",
+      "detail": "上架 10 天，評分 4.8",
+      "confidence": "high"
+    },
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 10 天前",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:03:59.032Z"
+}

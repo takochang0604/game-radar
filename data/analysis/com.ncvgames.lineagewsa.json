@@ -6,43 +6,79 @@
   "detail": {
     "description": "▶ Lineage W – The Ultimate MMORPG: Lineage\nLineage W is a next-generation open-world MMORPG, bringing players across SEA (Southeast Asia) together on one massive, seamless battlefield.\nExperience the true spirit of Lineage - loyalty, sacrifice, clan alliances, and massive warfare that forge the strongest Blood Pledges.\n28 Years of Legacy.\nThe Ultimate PvP MMORPG.\nClans rise. Kingdoms fall.\nLooking for a hardcore MMORPG with real Clan Wars, Castle Sieges, and cross-server PvP battles? Lineage W i",
     "released": "May 15, 2026",
-    "updated": 1779467856000,
-    "version": "2.10.02.13",
+    "updated": 1780502416000,
+    "version": "2.10.11.00",
     "installs": "500,000+",
-    "score": 3.8,
-    "ratings": 1461,
-    "reviews": 172,
+    "score": 4.2,
+    "ratings": 1680,
+    "reviews": 182,
     "developer": "NCV GAMES PTE. LTD.",
     "genre": "Role Playing",
-    "recentChanges": "The Ultimate Lineage MMORPG is now officially live!<br>Join the Ultimate Blood Battle and begin your journey today.<br>Exclusive SEA-only skins, special launch events, and exciting rewards are waiting for you!"
+    "recentChanges": "Game Performance Optimization"
   },
   "reviewAnalysis": {
-    "total": 17,
+    "total": 199,
     "starCounts": {
-      "1": 8,
-      "2": 1,
-      "3": 0,
-      "4": 0,
-      "5": 8
+      "1": 122,
+      "2": 9,
+      "3": 19,
+      "4": 5,
+      "5": 44
     },
-    "positiveRatio": 47,
-    "negativeRatio": 53,
+    "positiveRatio": 25,
+    "negativeRatio": 66,
     "eventMentions": [
       {
-        "text": "it does not update just keeps getting errors what a goodway to start",
+        "text": "sht game, u constantly need to update in google play then another additional download on the game it",
         "keywords": [
           "update"
+        ]
+      },
+      {
+        "text": "hard to lvl up always update easy to uninstall",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "dear nvc, i understand you have received a lot of low ratings recently, but i am sharing this feedba",
+        "keywords": [
+          "event"
+        ]
+      },
+      {
+        "text": "good graphics but movements are delayed. will wait for fix updates",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "basically the same thing, repeated again. the story is exactly the same as the previous one. what is",
+        "keywords": [
+          "new"
         ]
       }
     ]
   },
   "inferredReasons": [
     {
+      "type": "new_release",
+      "label": "🆕 新遊戲上線熱度",
+      "detail": "上架 22 天，評分 4.2",
+      "confidence": "high"
+    },
+    {
       "type": "major_update",
       "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 8 天前",
+      "detail": "最近更新: 2 天前",
+      "confidence": "high"
+    },
+    {
+      "type": "event_driven",
+      "label": "🎉 限時活動引流",
+      "detail": "評論中 5 次提及活動/事件",
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-31T15:25:29.786Z"
+  "analyzedAt": "2026-06-06T15:03:47.182Z"
 }

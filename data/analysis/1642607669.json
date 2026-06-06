@@ -1,0 +1,50 @@
+{
+  "appId": "1642607669",
+  "name": "Game of Thrones: Dragonfire",
+  "platform": "ios",
+  "market": "us",
+  "detail": {
+    "description": "Command legendary dragons, forge powerful alliances, and conquer the Seven Kingdoms in the ultimate Game of Thrones strategy game. Build your empire, raise a fearsome dragon army, and wage RTS war across Westeros to claim the Iron Throne. Game of Thrones: Dragonfire is an epic 4X strategy war game where you lead your House through conquest, diplomacy, and dragon warfare in the most immersive medieval fantasy game on mobile.\n\nCOLLECT & COMMAND MIGHTY DRAGONS\nHatch, train, and command legendary dr",
+    "released": "2026-06-02T07:00:00Z",
+    "updated": "2026-06-03T21:30:05Z",
+    "version": "26.5.52962",
+    "score": 4.8,
+    "reviews": 1068,
+    "developer": "Warner Bros.",
+    "developerUrl": "https://apps.apple.com/us/developer/warner-bros/id298372283?uo=4",
+    "genres": [
+      "Games",
+      "Roleplaying",
+      "Strategy"
+    ],
+    "releaseNotes": "Our dragons grow mightier with every flight!\nDownload the latest update for Dragonfire.\nStep into the world of Game of Thrones: Dragonfire. Explore Westeros, grow your power, and raise dragons as Houses fight and the realm descends into war.\nRead more at gotdragonfire.com!"
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "new_release",
+      "label": "🆕 新遊戲上線熱度",
+      "detail": "上架 4 天，評分 4.8",
+      "confidence": "high"
+    },
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 2 天前",
+      "confidence": "high"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:03:00.459Z"
+}

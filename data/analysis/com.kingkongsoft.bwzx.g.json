@@ -9,9 +9,9 @@
     "updated": 1779930983000,
     "version": "0.0.5",
     "installs": "100,000+",
-    "score": 4.5,
-    "ratings": 396,
-    "reviews": 194,
+    "score": 4.7,
+    "ratings": 786,
+    "reviews": 295,
     "developer": "킹콩소프트",
     "developerWebsite": "https://star.kingkongsoft.kr",
     "genre": "Role Playing",
@@ -34,15 +34,15 @@
     {
       "type": "new_release",
       "label": "🆕 新遊戲上線熱度",
-      "detail": "上架 18 天，評分 4.5",
+      "detail": "上架 24 天，評分 4.7",
       "confidence": "high"
     },
     {
       "type": "major_update",
       "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 3 天前",
-      "confidence": "high"
+      "detail": "最近更新: 9 天前",
+      "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-31T15:26:31.038Z"
+  "analyzedAt": "2026-06-06T15:05:13.667Z"
 }

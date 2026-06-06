@@ -1,0 +1,40 @@
+{
+  "appId": "com.sparkwin.casual.play",
+  "name": "Sparkle Win Quest",
+  "platform": "android",
+  "market": "th",
+  "detail": {
+    "description": "Sparkle Win Quest is a casual reel‑spinning game that brings you into a dazzling gem universe. Relax and enjoy sparkling reels filled with vibrant colors, glowing treasures, and lively animations designed for pure fun.\n\n🎮 Casual & Relaxing Gameplay: Easy to play, perfect for quick entertainment or stress‑free breaks.\n\n💎 Gem Puzzle Adventure: Spin beautifully crafted gemstone reels with radiant effects and colorful surprises.\n\n🌟 Visual Delight: Stunning graphics, dynamic sound, and smooth anim",
+    "released": "Apr 19, 2026",
+    "updated": 1776667738000,
+    "version": "1.0.0",
+    "installs": "50,000+",
+    "score": 4.3,
+    "ratings": 186,
+    "reviews": 21,
+    "developer": "SurTech Co.",
+    "genre": "Casino"
+  },
+  "reviewAnalysis": {
+    "total": 19,
+    "starCounts": {
+      "1": 7,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 12
+    },
+    "positiveRatio": 63,
+    "negativeRatio": 37,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "unknown",
+      "label": "🔍 待深入調查",
+      "detail": "未能自動推測原因，建議手動查看",
+      "confidence": "low"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:06:25.974Z"
+}

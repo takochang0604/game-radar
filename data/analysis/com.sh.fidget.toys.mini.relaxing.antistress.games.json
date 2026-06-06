@@ -1,0 +1,41 @@
+{
+  "appId": "com.sh.fidget.toys.mini.relaxing.antistress.games",
+  "name": "Mini Relaxing Game- pop it",
+  "platform": "android",
+  "market": "vn",
+  "detail": {
+    "description": "Need to unwind after a long day? Step into a world of calm with antistress relaxing fidget toys. This popit game is designed to help you relax, focus, and find peace. Explore an array of soothing pop it toys and stress-relief games that stimulate the satisfying experience of puppet games and mindful exercises. Engage with various relaxation toys, each with unique interactions and calming sounds.\n\nThe ultimate ASMR fidget games are designed to relieve stress and soothe your mind. Explore a divers",
+    "released": "May 2, 2024",
+    "updated": 1777382989000,
+    "version": "10.0",
+    "installs": "100,000,000+",
+    "score": 4.2,
+    "ratings": 60373,
+    "reviews": 1033,
+    "developer": "Game District LLC",
+    "developerWebsite": "https://gamedistrict.io/",
+    "genre": "Casual"
+  },
+  "reviewAnalysis": {
+    "total": 200,
+    "starCounts": {
+      "1": 24,
+      "2": 2,
+      "3": 11,
+      "4": 15,
+      "5": 148
+    },
+    "positiveRatio": 82,
+    "negativeRatio": 13,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "word_of_mouth",
+      "label": "💬 口碑爆發",
+      "detail": "4-5星評論佔 82%",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:04:30.881Z"
+}

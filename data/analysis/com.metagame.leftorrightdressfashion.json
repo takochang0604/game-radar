@@ -1,0 +1,54 @@
+{
+  "appId": "com.metagame.leftorrightdressfashion",
+  "name": "Left Or Right Perfect Dress Up",
+  "platform": "android",
+  "market": "vn",
+  "detail": {
+    "description": "✨Enter the wonderful world of Perfect Dress Up - where every outfit decision becomes fun and creative! Mix and match to complete the perfect outfit by deciding, left or right? Can you become a proud fashionista or just a stain on the catwalk? This is a battle for the fashion road and become winner of the fashion battles 💥\n\n🎀 Game Features:\n- Immerse in fashion show for all ages \n- Experience feel like participating in real fashion show \n- Simplicity and fun of the game \n- Variety of clothes co",
+    "released": "Apr 29, 2024",
+    "updated": 1777978896000,
+    "version": "1.2.4",
+    "installs": "5,000,000+",
+    "score": 3.9,
+    "ratings": 2211,
+    "reviews": 5,
+    "developer": "Metagame.Ltd",
+    "developerWebsite": "https://leftorrightgame.netlify.app/",
+    "genre": "Puzzle"
+  },
+  "reviewAnalysis": {
+    "total": 119,
+    "starCounts": {
+      "1": 25,
+      "2": 0,
+      "3": 5,
+      "4": 17,
+      "5": 72
+    },
+    "positiveRatio": 75,
+    "negativeRatio": 21,
+    "eventMentions": [
+      {
+        "text": "i'm in love 💕 with this game 🎮🎮🎮 guys this is really nice and cool 😎😘 you i guess i will stay ",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "i love fashion this new game is fun",
+        "keywords": [
+          "new"
+        ]
+      }
+    ]
+  },
+  "inferredReasons": [
+    {
+      "type": "event_driven",
+      "label": "🎉 限時活動引流",
+      "detail": "評論中 2 次提及活動/事件",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:06:57.216Z"
+}

@@ -1,0 +1,60 @@
+{
+  "appId": "com.qrgame.puzzledog",
+  "name": "Puzzle Dog",
+  "platform": "android",
+  "market": "ph",
+  "detail": {
+    "description": "Simple to play, hard to put down. Just slide, match three, and enjoy the satisfying blast!",
+    "released": "May 29, 2026",
+    "updated": 1779960909000,
+    "version": "1.0.1",
+    "installs": "100,000+",
+    "score": 4.8,
+    "ratings": 2575,
+    "reviews": 33,
+    "developer": "COOLYA",
+    "developerWebsite": "https://www.puzzledoggame.com/",
+    "genre": "Casual"
+  },
+  "reviewAnalysis": {
+    "total": 117,
+    "starCounts": {
+      "1": 5,
+      "2": 4,
+      "3": 6,
+      "4": 13,
+      "5": 89
+    },
+    "positiveRatio": 87,
+    "negativeRatio": 8,
+    "eventMentions": [
+      {
+        "text": "just with draw 0,03 i'm still new and coming back with game experience",
+        "keywords": [
+          "new"
+        ]
+      }
+    ]
+  },
+  "inferredReasons": [
+    {
+      "type": "new_release",
+      "label": "🆕 新遊戲上線熱度",
+      "detail": "上架 8 天，評分 4.8",
+      "confidence": "high"
+    },
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 9 天前",
+      "confidence": "medium"
+    },
+    {
+      "type": "word_of_mouth",
+      "label": "💬 口碑爆發",
+      "detail": "4-5星評論佔 87%",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:06:16.741Z"
+}

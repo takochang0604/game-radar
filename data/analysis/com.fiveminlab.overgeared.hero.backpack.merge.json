@@ -6,54 +6,55 @@
   "detail": {
     "description": "🎒 Pack your backpack, build your power - Overgeared Hero is the pixel roguelike auto-battler where every item placement decides the fight.\n\nIn Overgeared Hero, you collect rare, epic, and legendary gear, merge duplicates into stronger versions, and arrange them in your backpack to unlock powerful synergies. Then your hero auto-battles based on the build you designed. Every run is different, every backpack tells a different story.\n\n💡 Pro tips before you start:\n- Item placement is everything. Pl",
     "released": "May 25, 2026",
-    "updated": 1779915435000,
-    "version": "1.31.4",
+    "updated": 1780677117000,
+    "version": "1.31.7",
     "installs": "500,000+",
     "score": 4.8,
-    "ratings": 15446,
-    "reviews": 202,
+    "ratings": 18610,
+    "reviews": 287,
     "developer": "5minlab Corp.",
     "developerWebsite": "http://overgearedhero.com",
-    "genre": "Strategy"
+    "genre": "Strategy",
+    "recentChanges": "Stability improvements and bug fixes."
   },
   "reviewAnalysis": {
     "total": 200,
     "starCounts": {
-      "1": 45,
-      "2": 16,
-      "3": 18,
-      "4": 23,
-      "5": 98
+      "1": 47,
+      "2": 24,
+      "3": 19,
+      "4": 22,
+      "5": 88
     },
-    "positiveRatio": 61,
-    "negativeRatio": 31,
+    "positiveRatio": 55,
+    "negativeRatio": 36,
     "eventMentions": [
       {
-        "text": "game has good esthetics. backpack grinders are nothing new, but this one at least tries to keep your",
-        "keywords": [
-          "new"
-        ]
-      },
-      {
-        "text": "not really f2p although i do try to grind my way to get stuff. each chapter gets harder and the rewa",
-        "keywords": [
-          "event"
-        ]
-      },
-      {
-        "text": "this game is great, gameplay wise. it's addicting and also very easy to play. but my main complaint ",
-        "keywords": [
-          "event"
-        ]
-      },
-      {
-        "text": "after an update price of 3 main items in the arena exchange increase by 1000% is just insane!!, is i",
+        "text": "i shouldn't have to update to keep playing the game",
         "keywords": [
           "update"
         ]
       },
       {
-        "text": "new app, same game? also gutted the price of epic keys in arena shop, it was already slow grind with",
+        "text": "played for 2 days and progressed much further than most players. i like that legendary heroes are ea",
+        "keywords": [
+          "event"
+        ]
+      },
+      {
+        "text": "game is full of microtransactions(macrotransactions really, $100 for an event pack with a purchase l",
+        "keywords": [
+          "event"
+        ]
+      },
+      {
+        "text": "integrity verification failed, preventing me from being first in the rankings. therefore, i will no ",
+        "keywords": [
+          "event"
+        ]
+      },
+      {
+        "text": "genuinely fun game but wayy toooo pay to win. i have a feeling they're gonna be pumping out new char",
         "keywords": [
           "new"
         ]
@@ -64,13 +65,13 @@
     {
       "type": "new_release",
       "label": "🆕 新遊戲上線熱度",
-      "detail": "上架 6 天，評分 4.8",
+      "detail": "上架 12 天，評分 4.8",
       "confidence": "high"
     },
     {
       "type": "major_update",
       "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 3 天前",
+      "detail": "最近更新: 0 天前",
       "confidence": "high"
     },
     {
@@ -80,5 +81,5 @@
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-31T15:25:25.094Z"
+  "analyzedAt": "2026-06-06T15:02:50.418Z"
 }

@@ -9,7 +9,7 @@
     "updated": "2026-05-18T06:11:28Z",
     "version": "18.107.1",
     "score": 4.5,
-    "reviews": 992618,
+    "reviews": 994569,
     "developer": "Shenzhen Tencent Tianyou Technology Ltd",
     "developerUrl": "https://apps.apple.com/cn/developer/shenzhen-tencent-tianyou-technology-ltd/id1586101358?uo=4",
     "genres": [
@@ -35,11 +35,11 @@
   },
   "inferredReasons": [
     {
-      "type": "major_update",
-      "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 1 天前",
-      "confidence": "high"
+      "type": "unknown",
+      "label": "🔍 待深入調查",
+      "detail": "未能自動推測原因，建議手動查看",
+      "confidence": "low"
     }
   ],
-  "analyzedAt": "2026-05-19T12:54:57.461Z"
+  "analyzedAt": "2026-06-06T15:07:09.592Z"
 }

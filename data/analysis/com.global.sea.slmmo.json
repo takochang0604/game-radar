@@ -1,0 +1,79 @@
+{
+  "appId": "com.global.sea.slmmo",
+  "name": "Soul Land: Awakening World",
+  "platform": "android",
+  "market": "th",
+  "detail": {
+    "description": "Dual-authorized by the original anime and novel, the first-ever 3D Open-World MMORPG of the \"Soul Land\" IP is now available across all platforms! It's time to reshape the massive world of Soul Land and redefine the absolute pinnacle of IP quality!\n\nThe moment of awakening has arrived. Welcome to Soul Land: Awakening World! From the instant the first spark of Soul Power stirs within you, your destiny is set: to stand at the heart of the storm and become the legend itself.\n\nThe old laws have crumb",
+    "released": "May 22, 2026",
+    "updated": 1780041600000,
+    "version": "2.5.3",
+    "installs": "100,000+",
+    "score": 4.8,
+    "ratings": 6357,
+    "reviews": 892,
+    "developer": "37games.Japan",
+    "genre": "Role Playing",
+    "recentChanges": "Official Launch Time:2026/06/03<br><br>Dear Spirimaster,<br><br>Soul Land: Awakening World—the first-ever 3D immersive MMORPG officially licensed by both the Soul Land anime and novel creators—is now live in Open Beta! Prepare yourself, because this time, we are completely revolutionizing the Soul Land universe!"
+  },
+  "reviewAnalysis": {
+    "total": 200,
+    "starCounts": {
+      "1": 82,
+      "2": 4,
+      "3": 8,
+      "4": 17,
+      "5": 89
+    },
+    "positiveRatio": 53,
+    "negativeRatio": 43,
+    "eventMentions": [
+      {
+        "text": "i can't claim the third reward for the pagoda tribute event... so far other than that it's a fantast",
+        "keywords": [
+          "event"
+        ]
+      },
+      {
+        "text": "update even the next map in update more map adventure time this week bettel 5vs5 realistic more weap",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "downloaded 16 gb, completed all updates and patches, but the game shows \"no server found\" at the ser",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "it's reasonable to have bugs in newly developed game.i hope you guys fix in the next update accordin",
+        "keywords": [
+          "update",
+          "new"
+        ]
+      }
+    ]
+  },
+  "inferredReasons": [
+    {
+      "type": "new_release",
+      "label": "🆕 新遊戲上線熱度",
+      "detail": "上架 15 天，評分 4.8",
+      "confidence": "high"
+    },
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 8 天前",
+      "confidence": "medium"
+    },
+    {
+      "type": "event_driven",
+      "label": "🎉 限時活動引流",
+      "detail": "評論中 4 次提及活動/事件",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:02:16.493Z"
+}

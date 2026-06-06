@@ -1,0 +1,47 @@
+{
+  "appId": "com.global.vn.slmmo",
+  "name": "ĐấuLa ĐạiLục: Thế Giới Săn Hồn",
+  "platform": "android",
+  "market": "vn",
+  "detail": {
+    "description": "Officially adapted from both the anime and novel, the first 3D open-world MMORPG of the Douluo IP has officially launched on all platforms! It's time to shake up the Douluo Continent and set a new standard for Douluo game quality!\n\nThe moment of awakening has arrived. Welcome to the Douluo Continent! When the first spark of Soul Power awakens within you, you will step into the heart of the storm, becoming your own legend.\n\nOld rules have been broken, new opportunities surge like a tide. Here, ev",
+    "released": "May 22, 2026",
+    "updated": 1780041663000,
+    "version": "2.5.3",
+    "installs": "50,000+",
+    "score": 4.5,
+    "ratings": 2261,
+    "reviews": 973,
+    "developer": "CÔNG TY TNHH CÔNG NGHỆ VÀ DỊCH VỤ HỒNG HÀ",
+    "genre": "Role Playing",
+    "recentChanges": "Thời gian chính thức ra mắt:2026/06/03<br><br>Kính gửi Hồn Sư:<br><br> - Tựa MMORPG thế giới mở 3D đầu tiên của IP Đấu La, có bản quyền chính thức từ cả anime lẫn tiểu thuyết, nay đã chính thức Open Beta!<br>Lần này, hãy cùng khuấy đảo toàn bộ Thế Giới Đấu La!"
+  },
+  "reviewAnalysis": {
+    "total": 4,
+    "starCounts": {
+      "1": 2,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2
+    },
+    "positiveRatio": 50,
+    "negativeRatio": 50,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "new_release",
+      "label": "🆕 新遊戲上線熱度",
+      "detail": "上架 15 天，評分 4.5",
+      "confidence": "high"
+    },
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 8 天前",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:06:40.195Z"
+}

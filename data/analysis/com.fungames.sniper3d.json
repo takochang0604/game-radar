@@ -1,0 +1,48 @@
+{
+  "appId": "com.fungames.sniper3d",
+  "name": "Sniper 3D：Gun Shooting Games",
+  "platform": "android",
+  "market": "ph",
+  "detail": {
+    "description": "Get ready to unleash the ultimate sniper 3d experience with the most thrilling and action-packed shooting game of all time! Sniper 3d is the definitive free-to-play gun game that puts you in the shoes of a deadly assassin. Immerse yourself in high-intensity offline missions and show off your shooting skills in this adrenaline-pumping sniper adventure. Are you the ultimate shooter? Prove it in Sniper 3d!\n\nMain Features\n\n• 🎯 Sniper 3d Action: Experience the thrill of being a professional sniper i",
+    "released": "Nov 13, 2014",
+    "updated": 1780420160000,
+    "version": "6.34.1",
+    "installs": "500,000,000+",
+    "score": 4.6,
+    "ratings": 18177452,
+    "reviews": 72257,
+    "developer": "Wildlife Studios",
+    "developerWebsite": "https://wildlifestudios.com/",
+    "genre": "Action",
+    "recentChanges": "- Bug Fixes<br>- Stability improvements"
+  },
+  "reviewAnalysis": {
+    "total": 200,
+    "starCounts": {
+      "1": 16,
+      "2": 5,
+      "3": 11,
+      "4": 22,
+      "5": 146
+    },
+    "positiveRatio": 84,
+    "negativeRatio": 11,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 3 天前",
+      "confidence": "high"
+    },
+    {
+      "type": "word_of_mouth",
+      "label": "💬 口碑爆發",
+      "detail": "4-5星評論佔 84%",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:07:43.757Z"
+}

@@ -1,0 +1,44 @@
+{
+  "appId": "6743385713",
+  "name": "Wool Crush -Escape Traffic Jam",
+  "platform": "ios",
+  "market": "us",
+  "detail": {
+    "description": "Ready for a Woolly Adventure?\nJump into a new casual 3D puzzle! There’s cute yarn, a mischievous dragon, and exciting rescues!\nA colorful, naughty dragon is causing trouble, and a kitty needs your help! Solve the puzzle, clear the path, and become the ultimate Dragon Slayer!\n\nHow to be a Dragon Slayer:\nPick Your Cannon: Tap the right color! Show that dragon who’s boss!\nTarget the Dragon: Blast away the matching colored blocks to slow it down.\nSave the Kitty: Repel the dragon and keep the cat saf",
+    "released": "2025-04-08T07:00:00Z",
+    "updated": "2026-05-29T02:07:00Z",
+    "version": "4.3",
+    "score": 4.9,
+    "reviews": 54589,
+    "developer": "Astrasen Global",
+    "developerUrl": "https://apps.apple.com/us/developer/astrasen-global/id1862075373?uo=4",
+    "genres": [
+      "Games",
+      "Puzzle",
+      "Casual"
+    ],
+    "releaseNotes": "New enhanced features added! Experience the upgraded peripherals now!"
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 8 天前",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:08:03.314Z"
+}

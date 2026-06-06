@@ -4,66 +4,71 @@
   "platform": "android",
   "market": "us",
   "detail": {
-    "description": "Honkai: Star Rail is a HoYoverse space fantasy RPG.\nHop aboard the Astral Express and experience the galaxy's infinite wonders filled with adventure and thrills.\nPlayers will meet new companions across various worlds and maybe even run into some familiar faces. Overcome the struggles together caused by Stellaron and unravel the hidden truths behind it! May this journey lead us starward!\n\n□ Explore Distinct Worlds — Discover the boundless universe filled with wonder\n3, 2, 1, initiating warp! A sp",
+    "description": "This game includes optional in-game purchases, including random virtual items.\n\nHonkai: Star Rail is a HoYoverse space fantasy RPG.\nHop aboard the Astral Express and experience the galaxy's infinite wonders filled with adventure and thrills.\nPlayers will meet new companions across various worlds and maybe even run into some familiar faces. Overcome the struggles together caused by Stellaron and unravel the hidden truths behind it! May this journey lead us starward!\n\n□ Explore Distinct Worlds — D",
     "released": "Apr 6, 2023",
-    "updated": 1776312259000,
-    "version": "4.2.0",
+    "updated": 1779509320000,
+    "version": "4.3.0",
     "installs": "10,000,000+",
-    "score": 3.7,
-    "ratings": 511554,
-    "reviews": 13781,
+    "score": 3.8,
+    "ratings": 514179,
+    "reviews": 13828,
     "developer": "COGNOSPHERE PTE. LTD.",
     "developerWebsite": "https://hsr.hoyoverse.com/",
     "genre": "Adventure",
-    "recentChanges": "3rd Anniversary Version &quot;So Laughed the Masses&quot; is now available!<br>&quot;New Characters&quot; &quot;Silver Wolf LV.999 (Elation: Imaginary)&quot;, &quot;Evanescia (Elation: Physical)&quot;<br>&quot;Anniversary Rewards&quot; Check in cumulatively to claim Star Rail Special Pass ×20, get an additional Star Rail Special Pass ×10 from Anniversary Gifts, and log in to receive a &quot;Golden Companion Spirit,&quot; exchangeable for limited 5-star characters like &quot;Huohuo&quot; and &quot;Robin&quot;!<br>&quot;New Story&quot; Trailblaze Mission &quot;Planarcadia - So Laughed the Masses&quot;"
+    "recentChanges": "The brand-new Version 4.3 &quot;The Lethe Below the Living&quot; is now available!<br>New Character: Mortenax Blade (Nihility: Fire)<br>Character Rerun: Yao Guang (Elation: Physical), Cyrene (Remembrance: Ice), Phainon (Destruction: Physical)<br>New Story: Trailblaze Mission &quot;Planarcadia&quot; - &quot;The Lethe Below the Living&quot;<br>New Events: Pixel Plane Rumble, Wispae Amusement Park, and more<br>Others: New maps, new enemies, new stages, and more"
   },
   "reviewAnalysis": {
     "total": 200,
     "starCounts": {
-      "1": 59,
-      "2": 9,
-      "3": 10,
-      "4": 23,
-      "5": 99
+      "1": 29,
+      "2": 13,
+      "3": 20,
+      "4": 20,
+      "5": 118
     },
-    "positiveRatio": 61,
-    "negativeRatio": 34,
+    "positiveRatio": 69,
+    "negativeRatio": 21,
     "eventMentions": [
       {
-        "text": "honestly, for me, one of the better gacha games that ive played. even if there is a constant new cha",
+        "text": "game yang sangat enjoy untuk dimainkan, dari segi explore itu sangat mudah, farming material bisa au",
         "keywords": [
-          "new"
+          "event"
         ]
       },
       {
-        "text": "amazing game, there are many content and event, character and story is great. just...maybe slow down",
+        "text": "pretty dry when it comes to events but it's better than genshin in terms of rewards",
         "keywords": [
-          "event",
-          "new"
+          "event"
         ]
       },
       {
-        "text": "great game but i wish it was smaller in size, it's impossible to play this on phone with every updat",
-        "keywords": [
-          "update"
-        ]
-      },
-      {
-        "text": "all over of the game is good but sometimes i have been experiencing an bug or time out, when i press",
+        "text": "straight to the point: hsr and genshin are taking far too long to load after the hsr 4.3 update. i d",
         "keywords": [
           "update"
         ]
       },
       {
-        "text": "u could say people should give it a try... the game is awesome and all, the farming gets good and st",
+        "text": "after the recent update with blades new form, whenever i try to open the game, it for some reason, s",
         "keywords": [
           "update",
           "new"
+        ]
+      },
+      {
+        "text": "i played this game around version 2.x and my only gripe is how old limited characters are treated li",
+        "keywords": [
+          "limited"
         ]
       }
     ]
   },
   "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 14 天前",
+      "confidence": "medium"
+    },
     {
       "type": "event_driven",
       "label": "🎉 限時活動引流",
@@ -71,5 +76,5 @@
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-20T13:52:03.674Z"
+  "analyzedAt": "2026-06-06T15:03:05.216Z"
 }

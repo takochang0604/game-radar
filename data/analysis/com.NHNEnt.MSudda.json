@@ -1,0 +1,42 @@
+{
+  "appId": "com.NHNEnt.MSudda",
+  "name": "한게임 섯다&맞고",
+  "platform": "android",
+  "market": "kr",
+  "detail": {
+    "description": "The ultimate Seotda, the true feel of HanGame Seotda, brought straight to mobile!\n\nExperience the essence of Seotda in Mobile HanGame Seotda with the tension of big hands, meticulous battles of wits, and thrilling gameplay.\n\n■ Now, enjoy Matgo in Seotda!\n\nA thrilling showdown, Matgo Mode officially launched!\n\nFeel the true thrill of Matgo!\n\n■ GUCC Certified! A game certified under the Game User Protection Act.\n\n■ The moment we unite with \"Ttaeng,\" a massive \"Ttaeng Pot\" explodes! (New)\n\nWin the ",
+    "released": "Aug 9, 2017",
+    "updated": 1779175240000,
+    "version": "1.3.14",
+    "installs": "1,000,000+",
+    "score": 4,
+    "ratings": 54253,
+    "reviews": 30246,
+    "developer": "NHN Corp.",
+    "developerWebsite": "http://m.hangame.com",
+    "genre": "Card",
+    "recentChanges": "■ 필승 기원! 오직 득점으로 증명하는 최고의 스트라이커 김단정 등장!<br>■ 수호령 선물이 잭팟 보상과 만나 대박이 터집니다! 수호령 쌈짓돈 업데이트<br>■ 10판 마다 쩐도 받고! 5단계에선 초대박 기회까지! 스텝업 이벤트 오픈<br>■ 패스 전용 &amp; 동호회 상품 가격이 딱 맞춘 가격으로 조정됩니다.<br>■ 통합된 타짜상점 뽑기권/선택권에서 손쉽게 리스트를 확인해 보세요.<br>■ 이제는 내정보에서 금고 입출금 내역을 확인할 수 있습니다.<br>■ 추천 게임 아이콘의 위치가 조정됩니다. (로비 -&gt; 설정 내 버튼)<br>■ 수호령 체력 감소 기준이 매 판마다 반영됩니다.<br>■ 기타 오류 수정 및 서비스 개선"
+  },
+  "reviewAnalysis": {
+    "total": 15,
+    "starCounts": {
+      "1": 3,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 12
+    },
+    "positiveRatio": 80,
+    "negativeRatio": 20,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "word_of_mouth",
+      "label": "💬 口碑爆發",
+      "detail": "4-5星評論佔 80%",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:07:20.012Z"
+}

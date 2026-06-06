@@ -1,0 +1,45 @@
+{
+  "appId": "6757381033",
+  "name": "2026 프로야구GO!",
+  "platform": "ios",
+  "market": "kr",
+  "detail": {
+    "description": "세계 최초 방치형 KBO 야구게임! \n▶ 레전드, 프랜차이즈, 몬스터 등급 선수를 모두 직접 선택해 획득할 수 있는 특별한 기회!\n\n2026 프로야구GO!에서 전설의 구단과 레전드 선수들을 다시 만나보세요.\nKBO 리그의 역사 속 명장면과 뉴트로 감성을 현대적인 스타일로 재해석한 새로운 야구 경험.\n쉽게 키우고, 편하게 즐기고, 팬들과 함께 성장하는 방치형 × 수집형 × 소통형 야구를 지금 시작해보세요!\n\n1. KBO 공식 라이선스 탑재!\nKBO 리그 10개 구단 & 실제 선수 데이터 완전 반영\n현역부터 레전드까지 총망라된 선수 수집\n구단별 고유 유니폼 & 응원 문화까지 그대로 구현\n\n2. 전설의 선수들과 다시 만나는 ‘뉴트로 야구’\n추억의 스타 선수 재등장\n당시 유니폼, 경기장, 명장면까지 감성 복원\n야구팬의 추억을 자극하는 클래식 감성 제공\n\n3. 켜두기만 해도 성장! ‘방치형 야구의 맛’\n자동 경기/자동 훈련 지원\n방치 시간만큼 선수 능력치가 상승\n누구나 부담 없이 즐기는 야구",
+    "released": "2026-03-25T07:00:00Z",
+    "updated": "2026-06-05T01:33:02Z",
+    "version": "1.5.2",
+    "score": 3.9,
+    "reviews": 295,
+    "developer": "HAEGIN Co., Ltd.",
+    "developerUrl": "https://apps.apple.com/kr/developer/haegin-co-ltd/id1303470937?uo=4",
+    "genres": [
+      "게임",
+      "엔터테인먼트",
+      "캐주얼",
+      "스포츠"
+    ],
+    "releaseNotes": "- 몬스터 앨범 내 특정 선수 UI 오류 수정"
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 1 天前",
+      "confidence": "high"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:08:26.281Z"
+}

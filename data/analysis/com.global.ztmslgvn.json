@@ -1,0 +1,49 @@
+{
+  "appId": "com.global.ztmslgvn",
+  "name": "Puzzles & Survival",
+  "platform": "android",
+  "market": "vn",
+  "detail": {
+    "description": "—How to Survive the Apocalypse—\n※ Use chess pieces to unlock new possibilities\n- Defeat the undead, use chess pieces to open up new horizons\n- Match Three is your weapon, Strategy is your shield\n- A combination of conventional gameplay and SLG strategy\n- Immersive role-playing on the apocalypse battlefield\n※ Humanity's Last refuge in the apocalypse\n- Protect the last remaining habitat and rebuild human civilization and order\n- Upgrade weapons, build bases, and survivors will work together to eli",
+    "released": "Aug 18, 2021",
+    "updated": 1779273083000,
+    "version": "7.0.250",
+    "installs": "1,000,000+",
+    "score": 4.5,
+    "ratings": 6244,
+    "reviews": 2339,
+    "developer": "CÔNG TY TNHH CÔNG NGHỆ VÀ DỊCH VỤ HỒNG HÀ",
+    "developerWebsite": "https://gsupport.slfuntap.com/home?package=com.global.ztmslgvn",
+    "genre": "Strategy",
+    "recentChanges": "Phiên bản mới đã ra mắt! <br>[Chip Mới] Chip 12 Sao tưng bừng ra mắt! Tối ưu hóa tăng sao theo từng bậc từ 10 lên 11 sao, sức mạnh đột phá tầm cao mới! <br>[Lối Chơi Mới] Mỏ Núi Lửa đổ bộ nóng bỏng! Khởi động lần đầu vào 19/04, cuộc chiến tranh giành tài nguyên sắp bùng nổ! <br>[Tính Năng Mới] Điều phối Vũ Khí Chiến Lược linh hoạt! Sau 90 ngày mở máy chủ, Thống Đốc Quốc Gia có thể phân phối lại vũ khí, kiểm soát cục diện chiến trường tự do hơn! "
+  },
+  "reviewAnalysis": {
+    "total": 42,
+    "starCounts": {
+      "1": 21,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 13
+    },
+    "positiveRatio": 36,
+    "negativeRatio": 57,
+    "eventMentions": [
+      {
+        "text": "update xong hết vào game luôn, lol",
+        "keywords": [
+          "update"
+        ]
+      }
+    ]
+  },
+  "inferredReasons": [
+    {
+      "type": "unknown",
+      "label": "🔍 待深入調查",
+      "detail": "未能自動推測原因，建議手動查看",
+      "confidence": "low"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:08:28.558Z"
+}

@@ -1,0 +1,48 @@
+{
+  "appId": "com.wemadeconnect.aos.makedrama.google",
+  "name": "메이크 드라마 : MAD",
+  "platform": "android",
+  "market": "kr",
+  "detail": {
+    "description": "You don't need to save the world! Just solve the incidents right in front of you, fixer!\n\nA paradise where everything from bread theft cases to audacious prison break dramas runs rampant under dazzling neon lights!\n\nBecome a tough guy protagonist and shake the world alongside unique and beautiful girls!\n\nMake Drama! A collectible RPG featuring animated direction and an immersive story!\n\n■ Dazzling! A Harem Mayhem unfolding in a women-only world!\n\nA women-only world, am I the only man!? Free enco",
+    "released": "Jun 1, 2026",
+    "updated": 1780668902000,
+    "version": "1.0.6",
+    "installs": "10,000+",
+    "score": 4.6,
+    "ratings": 743,
+    "reviews": 235,
+    "developer": "Wemade Connect",
+    "developerWebsite": "https://cafe.naver.com/makedrama",
+    "genre": "Role Playing",
+    "recentChanges": "1. 오류 수정<br>2. 서버 안정화"
+  },
+  "reviewAnalysis": {
+    "total": 1,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1
+    },
+    "positiveRatio": 100,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "new_release",
+      "label": "🆕 新遊戲上線熱度",
+      "detail": "上架 5 天，評分 4.6",
+      "confidence": "high"
+    },
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 1 天前",
+      "confidence": "high"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:04:40.218Z"
+}

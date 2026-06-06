@@ -9,33 +9,52 @@
     "updated": 1776335926000,
     "version": "1.2.13",
     "installs": "10,000,000+",
-    "score": 3.3461537,
-    "ratings": 3664,
-    "reviews": 14,
+    "score": 3.4,
+    "ratings": 4192,
+    "reviews": 17,
     "developer": "zame",
     "developerWebsite": "https://momokpgamestudio.net",
     "genre": "Casual"
   },
   "reviewAnalysis": {
-    "total": 50,
+    "total": 200,
     "starCounts": {
-      "1": 31,
-      "2": 5,
-      "3": 1,
-      "4": 2,
-      "5": 11
+      "1": 111,
+      "2": 17,
+      "3": 8,
+      "4": 9,
+      "5": 55
     },
-    "positiveRatio": 26,
-    "negativeRatio": 72,
-    "eventMentions": []
+    "positiveRatio": 32,
+    "negativeRatio": 64,
+    "eventMentions": [
+      {
+        "text": "hello, i have a problem in go convenience game. the game does not go to the next level in stage 6 (p",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "why there are so much adds that's pissed😡 me off like in every 5 sec there are add first i thought ",
+        "keywords": [
+          "new"
+        ]
+      },
+      {
+        "text": "this game is very unique and i love it but why does it take me back to the begining of the game and ",
+        "keywords": [
+          "update"
+        ]
+      }
+    ]
   },
   "inferredReasons": [
     {
-      "type": "unknown",
-      "label": "🔍 待深入調查",
-      "detail": "未能自動推測原因，建議手動查看",
-      "confidence": "low"
+      "type": "event_driven",
+      "label": "🎉 限時活動引流",
+      "detail": "評論中 3 次提及活動/事件",
+      "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-05T12:07:19.133Z"
+  "analyzedAt": "2026-06-06T15:07:26.877Z"
 }

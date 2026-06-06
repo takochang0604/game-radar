@@ -1,0 +1,49 @@
+{
+  "appId": "6760872936",
+  "name": "三國異將錄",
+  "platform": "ios",
+  "market": "tw",
+  "detail": {
+    "description": "異化覺醒，狂氣破頂！\n異化三国武將卡牌RPG《三國異將錄》震撼來襲！《神魔三國志》製作組全新續作，為千万玩家打造的三國新篇章！\n亂世風雲再起，異象撼動天地。山海經中的異獸自遠古甦醒，跨越時空降臨三國，賦予武將全新力量！異獸同化，合擊開炸。主公將率領最強異化軍團，橫掃敵陣、征服亂世，在這場異變之中稱霸三國！\n\n▶ 不畫餅！首週真送 533 抽\n亂世戰力全面升級！主公開局即享超豪福利——首週真送武將533抽！核心武將輕鬆入手，專屬資源直接到位。從第一戰開始，就用碾壓級實力改寫三國！\n\n▶ 異獸同化！狂暴合擊一招橫掃天下\n與山海異獸共鳴，開啟異獸同化之力！武將瞬間暴走，狂暴合擊一觸即發，一招橫掃敵陣，戰場瞬間清空。戰鬥節奏全面加速，享受碾壓群雄的爽快戰鬥！\n\n▶ 無損換將！戰力100%傳承 陣容隨心切換\n無損換將系統登場！武將培養成果可完整傳承，戰力無縫轉移，不用再重練角色。陣容隨心搭、戰術隨時變，每一次出戰都保持巔峰狀態！\n\n▶ 入魔化妖！異變時裝激發終極秘技\n異變時裝強勢上線！換裝即可觸發魔化、妖化等多種異變形態！專屬終極秘技同步解鎖，一鍵爆發，戰力翻倍！外觀與實力雙重進化，以異變之姿征",
+    "released": "2026-06-01T07:00:00Z",
+    "updated": "2026-06-02T07:50:51Z",
+    "version": "1.3",
+    "score": 4.7,
+    "reviews": 810,
+    "developer": "DUSTY MUTUAL ENTERTAINMENT NETWORK TECHNOLOGY CO., LIMITED",
+    "developerUrl": "https://apps.apple.com/tw/developer/dusty-mutual-entertainment-network-technology-co-limited/id1670095697?uo=4",
+    "genres": [
+      "遊戲",
+      "角色扮演"
+    ],
+    "releaseNotes": "新增遊戲內容，優化遊戲體驗。"
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "new_release",
+      "label": "🆕 新遊戲上線熱度",
+      "detail": "上架 5 天，評分 4.7",
+      "confidence": "high"
+    },
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 4 天前",
+      "confidence": "high"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:06:12.044Z"
+}

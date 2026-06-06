@@ -6,10 +6,10 @@
   "detail": {
     "description": "あの「妖怪ウォッチ」が\n”ぷにっ”とパズルでスマホゲームに！\n\nジバニャンやコマさんなど、みんなが大好きな妖怪が\nぷにぷに感が気持ちいい“妖怪ぷに”になったよ！\n\nタップで消して、つなげて大きく！\nぷにぷに感がクセになる！\n\n【あそびかた】\n各ステージに登場する敵妖怪をやっつけるとクリア！\n\n攻撃は上から落ちてくる“妖怪ぷに”をタップして消すだけ。\nつなげると“でかぷに”に変化！\n\nフィーバーやコンボで大ダメージのチャンス！\n\n妖怪はそれぞれ必殺技を持っているから\nうまく使って敵を倒そう。\n\n敵の妖怪を倒すとともだちになることがあるよ。\nたくさんの妖怪を集めて遊んでみよう！\n\n【推奨環境】\niPhone 6以降、iPod touch 第6世代",
     "released": "2015-10-28T19:14:01Z",
-    "updated": "2026-05-16T01:58:12Z",
-    "version": "4.166.1",
+    "updated": "2026-05-27T05:00:57Z",
+    "version": "4.167.0",
     "score": 3.9,
-    "reviews": 350388,
+    "reviews": 350975,
     "developer": "Level-5 Inc.",
     "developerUrl": "https://apps.apple.com/jp/developer/level-5-inc/id555947952?uo=4",
     "genres": [
@@ -18,7 +18,7 @@
       "エンターテインメント",
       "パズル"
     ],
-    "releaseNotes": "・アプリアイコンの変更"
+    "releaseNotes": "・アプリアイコンの変更\n・不具合修正"
   },
   "reviewAnalysis": {
     "total": 0,
@@ -37,9 +37,9 @@
     {
       "type": "major_update",
       "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 5 天前",
-      "confidence": "high"
+      "detail": "最近更新: 10 天前",
+      "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-21T11:39:34.655Z"
+  "analyzedAt": "2026-06-06T15:07:41.399Z"
 }

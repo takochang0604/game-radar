@@ -1,0 +1,48 @@
+{
+  "appId": "com.luminous.Dynastybrainmatch",
+  "name": "Dynasty Match: Brain Puzzle",
+  "platform": "android",
+  "market": "vn",
+  "detail": {
+    "description": "Are you looking for a relaxing, anti-stress, and healing casual journey filled with oriental mystery? 🌸\nWelcome to Dynasty Match: Brain Puzzle, a highly addictive shape-matching, organizing, and brain-teasing puzzle game! Step into a beautiful ancient world, use your logic and observation skills to restore order to chaos, and experience the ultimate satisfaction for perfectionists.\nIf you love organization games, ASMR sorting, item matching, spot the difference, and tricky brain puzzles, you wi",
+    "released": "May 27, 2026",
+    "updated": 1780631798000,
+    "version": "1.0.5",
+    "installs": "100,000+",
+    "score": 4.7,
+    "ratings": 396,
+    "reviews": 57,
+    "developer": "Luminous Arc Studios",
+    "developerWebsite": "https://home.luminousarcstudios.shop/",
+    "genre": "Trivia",
+    "recentChanges": "Optimized performance, fixed bugs for a more stable experience."
+  },
+  "reviewAnalysis": {
+    "total": 7,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 5
+    },
+    "positiveRatio": 100,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "new_release",
+      "label": "🆕 新遊戲上線熱度",
+      "detail": "上架 10 天，評分 4.7",
+      "confidence": "high"
+    },
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 1 天前",
+      "confidence": "high"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:02:48.031Z"
+}

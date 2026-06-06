@@ -1,0 +1,44 @@
+{
+  "appId": "1036661603",
+  "name": "롤링 스카이",
+  "platform": "ios",
+  "market": "kr",
+  "detail": {
+    "description": "멋진 3D 이펙트, 간단한 조작법.\n손가락으로 볼을 좌우로 이동하여 음악에 따라 장애물을 피하여 세계를 정복해봐요!\n\n풍부한 게임 배경이 당신을 기다리고 있습니다! 산언덕, 우주, 산림, 설산, 지옥...\n\n더 많은 혜택을 기대해 주시고\n\n피드백 있으시면 언제든지 rollingskyfeedback@conew.com로 연락 주세요.\n\n비즈니스:\n치타 모바일은 전세계 탁월한 게임 개발자와 손잡고 같이 꿈을 이루고 싶습니다. 훌륭한 게임을 기다리겠습니다!\n언제든지 cheetahgames@cmcm.com로 연락해 주세요.\n\n개인정보 보호정책: http://www.cmcm.com/protocol/site/privacy.html",
+    "released": "2016-01-20T07:35:28Z",
+    "updated": "2026-06-05T08:55:04Z",
+    "version": "5.5.1",
+    "score": 3.9,
+    "reviews": 7710,
+    "developer": "Forward Vision Corporation Limited",
+    "developerUrl": "https://apps.apple.com/kr/developer/forward-vision-corporation-limited/id949821679?uo=4",
+    "genres": [
+      "게임",
+      "음악",
+      "보드"
+    ],
+    "releaseNotes": "***【New Chapter of Mirror Fantasy, A New Journey Under Sunny Skies】***\n1. New Official Level: [Mirrorworld]. Light and shadow flow in the realm of virtual and real mirrors, with hidden secrets in all reflections. Explore unknown mysteries in pure mirror visions, break through layers of restraints between reality and illusion, and embark on a brand-new fantastic puzzle adventure!\n2. Classic Level Return: [Sunny]. Warm sunshine spreads all over the path, and classic scenes return once again. Review the warm and healing adventure moments, roam freely in the bright scenery, and continue your exclusive legendary journey!\n3. Optimized level visual effects and upgraded scene rendering quality to create a more immersive adventure atmosphere and greatly improve the overall visual experience.\n4. Fixed device adaptation issues for some models, optimized game loading speed."
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 1 天前",
+      "confidence": "high"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:04:08.972Z"
+}

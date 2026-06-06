@@ -1,0 +1,54 @@
+{
+  "appId": "com.sunflowergp.vn",
+  "name": "Chiến Tuyến Hướng Dương",
+  "platform": "android",
+  "market": "vn",
+  "detail": {
+    "description": "Nearly a hundred new hybrid plant species – Explosive combat power, protect your Plant Home!\n\nTuoshan Su Su x Bai Yue Chu [Reincarnated Love] officially appears! Join now!\nFirst-time login rewards you with the Legendary Golden Plant - Monkey King Peach, Guanyin Lotus, Epic Purple Plant - Pineapple Fabric and Flower King, along with many high-level upgrade materials and plenty of gold waiting for you!\n\nThere are also special outfits – Straw Hat Superhero and special weapons – Sparkling Bamboo Tub",
+    "released": "Oct 16, 2025",
+    "updated": 1779680711000,
+    "version": "9.13",
+    "installs": "500,000+",
+    "score": 4.4,
+    "ratings": 28017,
+    "reviews": 11120,
+    "developer": "MG.OL",
+    "developerWebsite": "https://cthd.mgol.vn",
+    "genre": "Casual"
+  },
+  "reviewAnalysis": {
+    "total": 200,
+    "starCounts": {
+      "1": 14,
+      "2": 3,
+      "3": 9,
+      "4": 24,
+      "5": 150
+    },
+    "positiveRatio": 87,
+    "negativeRatio": 9,
+    "eventMentions": [
+      {
+        "text": "game hay nhieu event",
+        "keywords": [
+          "event"
+        ]
+      }
+    ]
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 12 天前",
+      "confidence": "medium"
+    },
+    {
+      "type": "word_of_mouth",
+      "label": "💬 口碑爆發",
+      "detail": "4-5星評論佔 87%",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:07:50.848Z"
+}

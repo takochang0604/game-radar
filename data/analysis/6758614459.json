@@ -1,0 +1,50 @@
+{
+  "appId": "6758614459",
+  "name": "肥鹅美食街",
+  "platform": "ios",
+  "market": "cn",
+  "detail": {
+    "description": "解谜合成，合成高级食材，提高烹饪技巧，探索缤纷菜谱；\n经营小店，邂逅各种Q萌可爱的肥鹅客人，聆听它们的故事；\n治愈画风，沉浸式烹饪体验，鹅来鹅往，打造热闹的市井氛围！\n\n探索解谜合成：\n这是一次刺激味蕾、解压治愈、具有探索性的合成体验！\n食材与食材之间的搭配多种多样，改变食材与厨具的组合，合成探索高级食材，将会产生不同的菜肴！\n按照你的心意，烹饪出热气腾腾、让人食指大动的美味吧！\n\n深度烹饪机制：\n构建了层次丰富的料理生态系统，通过不同食材和厨具的结合，探索，赋予烹饪更多可能性！\nQ弹爽滑的虾饺？鲜香四溢的海鲜浓汤？还是刚出炉的酥脆面包？无数缤纷食谱等你来解锁哦！\n\n经营特色小店：\n这不仅仅是一条普通的美食街，更是微观的肥鹅小天地！\n服务客人，获得金币，建造你的美食街。各种各样的美食小店，将会吸引更多的肥鹅客人。\n\n浓郁的市井人情氛围：\n在炊烟萦绕中，熙熙攘攘的食客中，聆听客人的往事与烦恼。\n工作烦恼？升学忧虑？和朋友闹别扭？还是一个隐藏许久的秘密……\n你用美食治愈肥鹅，而肥鹅用可爱抚慰你的心。",
+    "released": "2026-06-01T07:00:00Z",
+    "updated": "2026-06-01T07:00:00Z",
+    "version": "1.4.3",
+    "score": 4.6,
+    "reviews": 4509,
+    "developer": "HK HORTOR TECHNOLOGY LIMITED",
+    "developerUrl": "https://apps.apple.com/cn/developer/hk-hortor-technology-limited/id1873950719?uo=4",
+    "genres": [
+      "游戏",
+      "模拟",
+      "休闲"
+    ],
+    "releaseNotes": "1.新增活动内容\n2.优化游戏体验"
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "new_release",
+      "label": "🆕 新遊戲上線熱度",
+      "detail": "上架 5 天，評分 4.6",
+      "confidence": "high"
+    },
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 5 天前",
+      "confidence": "high"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:04:52.164Z"
+}

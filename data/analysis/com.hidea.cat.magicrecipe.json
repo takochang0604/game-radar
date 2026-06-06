@@ -2,71 +2,72 @@
   "appId": "com.hidea.cat.magicrecipe",
   "name": "Cats&Soup : Merge Magic Recipe",
   "platform": "android",
-  "market": "tw",
+  "market": "jp",
   "detail": {
     "description": "Cats & Soup: Magic Recipe is officially out now! ✨\nThe purr-fectly awaited official sequel to Cats & Soup has finally arrived!\n\nTo celebrate the official launch, we're gifting everyone two limited cats: the sweet Calico Latte cat and the lovely Cherry Blossom Shorthair! 🐱🌸\n\nEmbark on a magical merge adventure with adorable kitties today!🐾\n\nMerge ingredients to whip up magical recipes, and decorate a cozy Share House for your feline friends!\n\n\nAre you ready to dive into one of the cutest cat g",
     "released": "Apr 27, 2026",
-    "updated": 1778169227000,
-    "version": "1.0.4.2.0",
+    "updated": 1780406863000,
+    "version": "1.1.1",
     "installs": "500,000+",
-    "score": 4.8,
-    "ratings": 12131,
-    "reviews": 77,
+    "score": 4.5,
+    "ratings": 16039,
+    "reviews": 113,
     "developer": "NEOWIZ",
     "developerWebsite": "https://hideacorp.blogspot.com",
     "genre": "Casual",
-    "recentChanges": "《Cats &amp; Soup : Magic Recipe》Official Launch!<br><br>A Major Magical Update Has Arrived!<br>- New story scenes and charming NPC cutscenes<br>- Multi-quest system for more engaging gameplay<br>- A brand-new sticker collection event with customization<br>- Renewed weekly missions<br><br>Dive into a more magical journey than ever before!"
+    "recentChanges": "Come and see what&#39;s new in the world of Magic Recipe!<br><br>We have some additional news for the 1.1.1 update:<br>- The Quilt Making event has been added. Come and stitch yours into a precious memory!<br>- The new Kitty Summer Life Sticker Book is now available!<br>- A new Daily Login has started, and cool rewards await!<br>- A new Draw is now available for you to meet special friends to spend the summer with!<br>- Granny Sheep has some new clothes for you to check out!"
   },
   "reviewAnalysis": {
     "total": 200,
     "starCounts": {
-      "1": 11,
-      "2": 7,
-      "3": 6,
-      "4": 24,
-      "5": 152
+      "1": 6,
+      "2": 9,
+      "3": 10,
+      "4": 27,
+      "5": 148
     },
     "positiveRatio": 88,
-    "negativeRatio": 9,
+    "negativeRatio": 8,
     "eventMentions": [
       {
-        "text": "super cute game to play when you have an extra 15 minutes. you can unlock outfits for the kitties an",
-        "keywords": [
-          "new"
-        ]
-      },
-      {
-        "text": "so the game is really awesome. just the issue of the game updated and i lost all my progress. i was ",
-        "keywords": [
-          "update"
-        ]
-      },
-      {
-        "text": "adorable game! however, it needs: 1) more minigame attempts each day, 2) other things to do while wa",
-        "keywords": [
-          "new"
-        ]
-      },
-      {
-        "text": "this new cat game is awesome",
-        "keywords": [
-          "new"
-        ]
-      },
-      {
-        "text": "editing my review because i don't like the new update. part of what i loved so much about this game ",
+        "text": "amazing game! i've always hated the energy thing in all sorts of game— more of a personal preference",
         "keywords": [
           "update",
+          "limited",
           "new"
+        ]
+      },
+      {
+        "text": "i think the graphics and music are cute, and overall the game is engaging. i'm not sure why the ad-f",
+        "keywords": [
+          "limited"
+        ]
+      },
+      {
+        "text": "it's a great game. i really enjoy it. but it easily get laggy after a few minutes playing. and i don",
+        "keywords": [
+          "event"
+        ]
+      },
+      {
+        "text": "simple merging game with easy to play events from time to time! dev are also generous with the energ",
+        "keywords": [
+          "event"
+        ]
+      },
+      {
+        "text": "i love this game, but the recent update will not let me open the app",
+        "keywords": [
+          "update"
         ]
       }
     ]
   },
   "inferredReasons": [
     {
-      "type": "new_release",
-      "label": "🆕 新遊戲上線熱度",
-      "detail": "上架 30 天，評分 4.8",
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 4 天前",
       "confidence": "high"
     },
     {
@@ -82,5 +83,5 @@
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-27T12:09:53.085Z"
+  "analyzedAt": "2026-06-06T15:06:30.733Z"
 }

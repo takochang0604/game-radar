@@ -1,44 +1,44 @@
 {
   "appId": "6738109752",
-  "name": "Tiles Survive!",
+  "name": "タイルズ・サバイバル",
   "platform": "ios",
-  "market": "ph",
+  "market": "jp",
   "detail": {
-    "description": "Enter the world of \"Tiles Survive!\" and guide your team of survivors through a harsh wilderness. As the core of your survivor team, explore the wild, gather key resources, and use them wisely to strengthen your shelter.\nVenture into different tiles and expand your territory. Improve how you manage resources, build and upgrade structures, and connect electricity to speed up production. Create a self-sufficient shelter where every decision shapes your survivors’ future.\n\nGame Features:\n\n● Operatio",
-    "released": "2025-07-16T07:00:00Z",
-    "updated": "2026-04-29T07:03:29Z",
-    "version": "2.5.100",
-    "score": 4.6954,
-    "reviews": 522,
+    "description": "ようこそ『タイルズ・サバイバル』の世界へ！刺激的なサバイバル冒険の旅に出かけよう！\n生存者チームの中心として、あなたは未知の生物の群れを探索し、貴重な資源を集めよう。集めた資源を巧みに利用し、基地の生産力を強化・拡大していこう。あなたの選択ひとつひとつが運命を大きく左右する。知恵と策略を駆使して、自分だけのサバイバルの奇跡を創り上げよう！\n \nゲームの特徴：\n \n▼経営と策略の管理\n自分の拠点を築き、発電所を建て、電力システムを管理しながら基地の運営を行いましょう。建物の解放とLvアップが、厳しい生存の日々をサポートしてくれます。\n \n▼キャラクターの役割分担\nハンター、コック、キコリなど、生存者キャラクターに対し、合理的な役割分担を行い、各々の能力を最大限に発揮させましょう。彼らの状態を観察し、即時治療や支援を行い、困難な環境でも生き抜けるようにサポートすることが大事です。\n \n▼資源探索と収集\n異なる地形を解放し、豊富な資源を見つけ、自分の拠点をLvアップさせましょう。どの地形にもサプライズと出会いに満ち溢れています。\n \n▼英雄の募集\nオリジナルのスキルと才能を持つ英雄を募集しま",
+    "released": "2025-10-30T07:00:00Z",
+    "updated": "2026-05-30T04:08:27Z",
+    "version": "2.5.300",
+    "score": 4.6,
+    "reviews": 4141,
     "developer": "FunPlus International AG",
-    "developerUrl": "https://apps.apple.com/ph/developer/funplus-international-ag/id1343106322?uo=4",
+    "developerUrl": "https://apps.apple.com/jp/developer/funplus-international-ag/id1343106322?uo=4",
     "genres": [
-      "Games",
-      "Role-Playing",
-      "Strategy"
+      "ゲーム",
+      "ロールプレイング",
+      "ストラテジー"
     ],
-    "releaseNotes": "[What's New]\n- Chosen by hundreds of thousands of Chiefs, this year's premier competition has officially been named Rising Legend. The registration is now open. Update to the latest version to check it out!\nBattle Zone groupings will be revealed soon as top contenders prepare for the fight ahead. We look forward to witnessing the road to glory with you!\n\n- Reach a certain Power Plant level to unlock the \"Claim All\" feature for Intel Post, allowing Chiefs to collect completed Intel rewards with a single tap. Less hassle, smoother battles!\n\n[Optimizations & Fixes]\n- Starting at 00:00 UTC on May 6, Chiefs who leave an Alliance must wait at least 48 hours before participating in Oil Clash, Gene Clash, or Copper Clash. Chiefs who leave an Alliance before 00:00 UTC on May 6 will remain under the previous 12-hour rule.\n\n- The VIP Store refresh time has been adjusted from Sunday 00:00 UTC to Monday 00:00 UTC, making it easier to purchase Arena Challenge Tickets and other items after a new Arena season begins.\n\n- Chief Posts Improvements:\n1. Added \"For You\" and \"Trending\" channels so Chiefs can keep up with the latest community highlights.\n2. Chiefs can now upload up to 4 images in a single post to share more memorable moments.\n3. Improved interactions for browsing, liking, commenting, and new message notifications.\n\n- Alliance Siege now features a Defense Lineup setup option, allowing Chiefs to customize their defense preset for the event. Any changes to the lineup will automatically update the displayed defense power in the event interface.\n\n- Improved Behemoth Talent progress display and enhanced animation effects when opening the Talent screen."
+    "releaseNotes": "【システム改善】\n- チャット機能の改善：\n1）チャットに、最新メッセージへすばやく移動できるボタンを追加しました。最新のメッセージをより確認しやすくなります\n2）指揮官の皆さまの表示設定に関する好みに対応するため、アップデート後はチャット内で自身のVIPアイコンを非表示にできるようになります\n\n- 【地下金鉱】イベントの改善：\n1）編成戦力の算出ロジックを改善し、地下金鉱イベントにおける実際の戦力により近い数値が表示されるよう調整しました\n2）第1～4層の金鉱採掘レポートにおいて、部隊情報が表示されない場合がある問題を修正しました\n3）複数部隊編成時の「一括編成」ロジックを改善しました\n\n- リサイクル商人からアイテムを購入する際、「購入確認」画面に対象アイテムの具体的な数量が表示されるようになります。\n\n- 【原油争奪戦】【遺伝子争奪戦】【コッパー争奪戦】などのイベントにおけるランキング表示ロジックを改善しました。複数の同盟の領地占領Ptまたは同盟集計Ptが同一の場合、マッチング段階で同盟戦力が高かった同盟が、関連ランキングでより上位に表示されます。\n\n- 【走るカメさん】イベントの改善：今回のアップデート後、各任務段階のマッチング期間中（5分間）も、対応する任務Ptを正常に獲得できるようになります。該当Ptはマッチング期間終了後、現在の段階の個人Ptに自動で加算されます。"
   },
   "reviewAnalysis": {
-    "total": 21,
+    "total": 0,
     "starCounts": {
-      "1": 16,
-      "2": 1,
-      "3": 3,
+      "1": 0,
+      "2": 0,
+      "3": 0,
       "4": 0,
-      "5": 1
+      "5": 0
     },
-    "positiveRatio": 5,
-    "negativeRatio": 81,
+    "positiveRatio": 0,
+    "negativeRatio": 0,
     "eventMentions": []
   },
   "inferredReasons": [
     {
       "type": "major_update",
       "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 5 天前",
+      "detail": "最近更新: 7 天前",
       "confidence": "high"
     }
   ],
-  "analyzedAt": "2026-05-04T20:35:34.107Z"
+  "analyzedAt": "2026-06-06T15:08:08.363Z"
 }

@@ -9,9 +9,9 @@
     "updated": 1779103851000,
     "version": "2.6.0",
     "installs": "1,000,000+",
-    "score": 4.9,
-    "ratings": 84400,
-    "reviews": 91,
+    "score": 4.8,
+    "ratings": 92394,
+    "reviews": 98,
     "developer": "Brainteaser Puzzle Game Studio",
     "developerWebsite": "https://blockcolor.gurugame.ai",
     "genre": "Puzzle",
@@ -20,15 +20,21 @@
   "reviewAnalysis": {
     "total": 200,
     "starCounts": {
-      "1": 32,
-      "2": 11,
-      "3": 14,
-      "4": 9,
-      "5": 134
+      "1": 31,
+      "2": 10,
+      "3": 10,
+      "4": 8,
+      "5": 141
     },
-    "positiveRatio": 72,
-    "negativeRatio": 22,
+    "positiveRatio": 75,
+    "negativeRatio": 21,
     "eventMentions": [
+      {
+        "text": "new idea! love it 😀",
+        "keywords": [
+          "new"
+        ]
+      },
       {
         "text": "you're correct however your app contains click bate! the ads that come up say \"you need to update th",
         "keywords": [
@@ -39,11 +45,11 @@
   },
   "inferredReasons": [
     {
-      "type": "major_update",
-      "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 13 天前",
+      "type": "event_driven",
+      "label": "🎉 限時活動引流",
+      "detail": "評論中 2 次提及活動/事件",
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-31T15:28:09.951Z"
+  "analyzedAt": "2026-06-06T15:02:45.879Z"
 }

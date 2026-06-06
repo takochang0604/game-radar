@@ -9,9 +9,9 @@
     "updated": 1779699251000,
     "version": "1.0.16",
     "installs": "1,000,000+",
-    "score": 4.4,
-    "ratings": 15928,
-    "reviews": 487,
+    "score": 4.6,
+    "ratings": 17081,
+    "reviews": 544,
     "developer": "ZigZaGame Inc.",
     "developerWebsite": "https://www.zigzagame.com",
     "genre": "Role Playing",
@@ -20,47 +20,43 @@
   "reviewAnalysis": {
     "total": 200,
     "starCounts": {
-      "1": 35,
-      "2": 28,
-      "3": 30,
+      "1": 42,
+      "2": 19,
+      "3": 20,
       "4": 17,
-      "5": 90
+      "5": 102
     },
-    "positiveRatio": 54,
-    "negativeRatio": 32,
+    "positiveRatio": 60,
+    "negativeRatio": 31,
     "eventMentions": [
       {
-        "text": "too much update in a week and not new fitur",
-        "keywords": [
-          "update",
-          "new"
-        ]
-      },
-      {
-        "text": "new to the game, story lines an interesting take on a game, adds a fresh way to play games. thorough",
-        "keywords": [
-          "update",
-          "new"
-        ]
-      },
-      {
-        "text": "the game so far is really interesting considering that it's the first day of playing and i'm now in ",
+        "text": "what a nice game! the storyline so far is awesome. good fights, some cool characters, nice visuals a",
         "keywords": [
           "update"
         ]
       },
       {
-        "text": "its alright, not outstanding at all though. the story is the main selling point of the game, however",
+        "text": "no new material ever. gacha is 1 in 500. game is dead. and let me tell you something, these five sta",
         "keywords": [
           "new"
         ]
       },
       {
-        "text": "i wish there were more things to do in this game. right now, 3 episodes are released once per month ",
+        "text": "very slow progress in game, so it's more like you need more patient than get in to game. but it's go",
         "keywords": [
-          "event",
-          "update",
           "new"
+        ]
+      },
+      {
+        "text": "too many updates",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "i love the game but why so many updates? and why so long between stories. i get it you want it to fe",
+        "keywords": [
+          "update"
         ]
       }
     ]
@@ -69,8 +65,8 @@
     {
       "type": "major_update",
       "label": "🔄 重大更新帶動",
-      "detail": "最近更新: 2 天前",
-      "confidence": "high"
+      "detail": "最近更新: 12 天前",
+      "confidence": "medium"
     },
     {
       "type": "event_driven",
@@ -79,5 +75,5 @@
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-27T12:10:53.702Z"
+  "analyzedAt": "2026-06-06T15:07:02.102Z"
 }

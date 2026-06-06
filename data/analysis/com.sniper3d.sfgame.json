@@ -1,0 +1,54 @@
+{
+  "appId": "com.sniper3d.sfgame",
+  "name": "Sniper 3D: Alien War",
+  "platform": "android",
+  "market": "tw",
+  "detail": {
+    "description": "Aliens are hiding in plain sight — can you spot them all?\nAs an elite sniper, you must rely on sharp eyes and quick instincts.\nFind them. Aim. Eliminate!\n\n🎯 Game Features\n • Detect the Disguise: Aliens transform into map objects and environmental details — stay alert!\n • Stylish Weapons: Unlock unique sniper skins and decorations to show off your battle style!\n • Diverse Maps: Explore city streets, tall buildings, small towns, and secret bases — each with new challenges!\n • Hidden Secrets: Ever",
+    "released": "Jan 11, 2026",
+    "updated": 1772766612000,
+    "version": "1.0.9",
+    "installs": "500,000+",
+    "score": 4.7,
+    "ratings": 8303,
+    "reviews": 193,
+    "developer": "KampfireGames",
+    "developerWebsite": "https://www.kampfiregames.com",
+    "genre": "Casual"
+  },
+  "reviewAnalysis": {
+    "total": 51,
+    "starCounts": {
+      "1": 12,
+      "2": 2,
+      "3": 6,
+      "4": 3,
+      "5": 28
+    },
+    "positiveRatio": 61,
+    "negativeRatio": 27,
+    "eventMentions": [
+      {
+        "text": "it's funny to see how creative the aliens are by the way they hide themselves. fun games... but i am",
+        "keywords": [
+          "limited"
+        ]
+      },
+      {
+        "text": "fun & simple. should have option to turn off timer.update: will give 5 stars when given the option t",
+        "keywords": [
+          "update"
+        ]
+      }
+    ]
+  },
+  "inferredReasons": [
+    {
+      "type": "event_driven",
+      "label": "🎉 限時活動引流",
+      "detail": "評論中 2 次提及活動/事件",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:07:48.483Z"
+}

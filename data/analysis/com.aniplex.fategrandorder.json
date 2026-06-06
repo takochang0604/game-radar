@@ -1,0 +1,80 @@
+{
+  "appId": "com.aniplex.fategrandorder",
+  "name": "Fate/Grand Order",
+  "platform": "android",
+  "market": "jp",
+  "detail": {
+    "description": "A Fate RPG from TYPE-MOON, the TV series you're familiar with!\nEnjoy a full-fledged RPG even on your smartphone.\nWith a story that's over 5 million characters long, you'll be able to enjoy an overwhelming amount of content!\nIn addition to the main story, each character has their own story, ensuring that both Fate fans and those experiencing the world of Fate for the first time will be fully satisfied.\n\n[Synopsis]\nThe year is 2015.\nCaldea, which observes the Earth's future, has confirmed that hum",
+    "released": "Jul 29, 2015",
+    "updated": 1780486760000,
+    "version": "2.135.1",
+    "installs": "5,000,000+",
+    "score": 3.7,
+    "ratings": 176030,
+    "reviews": 54147,
+    "developer": "Aniplex Inc.",
+    "developerWebsite": "http://www.fate-go.jp/",
+    "genre": "Role Playing",
+    "recentChanges": "【Ver.2.135.1】アップデート内容<br><br>いつもFate/Grand Orderをご利用頂きありがとうございます。今回のアップデート内容をご案内いたします。<br><br>■対応内容<br>・一部不具合の修正<br><br>■ご注意<br>万一、ストア内において本アプリの最新バージョンが配信されていない場合、アンインストールは行わず、お客様のストアに「更新」ボタンが表示されるまで、暫く時間をおいてからお試しください。誤ってアンインストールされた場合、セーブデータは保持されませんので予めご了承ください。<br><br>今後ともFate/Grand Orderをご愛顧くださいますよう、よろしくお願い申し上げます。"
+  },
+  "reviewAnalysis": {
+    "total": 200,
+    "starCounts": {
+      "1": 49,
+      "2": 9,
+      "3": 7,
+      "4": 13,
+      "5": 122
+    },
+    "positiveRatio": 68,
+    "negativeRatio": 29,
+    "eventMentions": [
+      {
+        "text": "魔法騎士レイアースのコラボお願い🥹",
+        "keywords": [
+          "コラボ"
+        ]
+      },
+      {
+        "text": "nauseous script writer nasu kunihiro tried to retaliate against players for *wasting* his ten years ",
+        "keywords": [
+          "new"
+        ]
+      },
+      {
+        "text": "not a friendly game for newcomer.",
+        "keywords": [
+          "new"
+        ]
+      },
+      {
+        "text": "i can't install it after the update",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "唯一一个玩了10年的手游！10周年快乐！ 😊",
+        "keywords": [
+          "周年",
+          "周年"
+        ]
+      }
+    ]
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 3 天前",
+      "confidence": "high"
+    },
+    {
+      "type": "event_driven",
+      "label": "🎉 限時活動引流",
+      "detail": "評論中 5 次提及活動/事件",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:02:41.016Z"
+}

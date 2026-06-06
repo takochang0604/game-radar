@@ -1,0 +1,45 @@
+{
+  "appId": "6759077038",
+  "name": "Profile Perfect",
+  "platform": "ios",
+  "market": "us",
+  "detail": {
+    "description": "This game is a clever and immersive investigation puzzle where every clue matters, designed for fans of brain and IQ challenges. Your goal is simple: discover the truth behind every file, find the hidden secrets, and master the art of the digital search in this fun game.\n\nGuess the identity of the person behind the screen and uncover the story through social media deep-dives and digital sleuthing. Tap through profiles, identify suspicious activity, and find the perfect cross-reference as you sol",
+    "released": "2026-03-16T07:00:00Z",
+    "updated": "2026-05-24T21:49:33Z",
+    "version": "0.8.1",
+    "score": 4.8,
+    "reviews": 1789,
+    "developer": "Lion Studios Plus",
+    "developerUrl": "https://apps.apple.com/us/developer/lion-studios-plus/id1610194568?uo=4",
+    "genres": [
+      "Games",
+      "Puzzle",
+      "Entertainment",
+      "Word"
+    ],
+    "releaseNotes": "- New Levels\n- Performance Optimizations\n- Bug Fixes"
+  },
+  "reviewAnalysis": {
+    "total": 0,
+    "starCounts": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "positiveRatio": 0,
+    "negativeRatio": 0,
+    "eventMentions": []
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 12 天前",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:02:14.150Z"
+}

@@ -10,8 +10,8 @@
     "version": "1.6.0",
     "installs": "50,000,000+",
     "score": 4.2,
-    "ratings": 1730983,
-    "reviews": 16349,
+    "ratings": 1735902,
+    "reviews": 16370,
     "developer": "The Pokémon Company",
     "genre": "Card",
     "recentChanges": "● New Pulsing Aura booster packs are now available.<br>● Gold frames have been added to flair.<br>● A Claim All feature has been added for packs.<br>● Updates to the Obtain Items feature.<br>● A 2D pattern code feature has been added for friend requests.<br>● Revisions have been made to some features."
@@ -19,44 +19,44 @@
   "reviewAnalysis": {
     "total": 200,
     "starCounts": {
-      "1": 67,
-      "2": 13,
-      "3": 16,
-      "4": 14,
-      "5": 90
+      "1": 48,
+      "2": 23,
+      "3": 18,
+      "4": 15,
+      "5": 96
     },
-    "positiveRatio": 52,
-    "negativeRatio": 40,
+    "positiveRatio": 56,
+    "negativeRatio": 36,
     "eventMentions": [
       {
-        "text": "stay away for your own sanity. this game starts nice with many rewards and rare cards, but the more ",
+        "text": "game is trash and is getting worse every day. i've been playing this game since launch, the ui is ge",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "the ranked matchmaking is a joke in this game. i'm regularly being put against other players 40+ lev",
         "keywords": [
           "new"
         ]
       },
       {
-        "text": "coin flip odds is not 50/50 in most cases. player draw is handicapped against ai players. pack openi",
+        "text": "this app is trash since the new update and app support is very responsive but ultimately useless. th",
         "keywords": [
           "update",
           "new"
         ]
       },
       {
-        "text": "the game developer have actually no intention of giving out gifts to players as the expert modes are",
+        "text": "i really wish there's a rerun of the previous playmat and accessories. also adding bgm battles from ",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "the new \"influencer\" ads are gross. stop being gross.",
         "keywords": [
           "new"
-        ]
-      },
-      {
-        "text": "why does it not update.every time i successfully update it asks for another update.",
-        "keywords": [
-          "update"
-        ]
-      },
-      {
-        "text": "you can't create another account in pokémon tcg; please introduce an update for this. the game is to",
-        "keywords": [
-          "update"
         ]
       }
     ]
@@ -69,5 +69,5 @@
       "confidence": "medium"
     }
   ],
-  "analyzedAt": "2026-05-31T15:27:14.003Z"
+  "analyzedAt": "2026-06-06T15:03:17.572Z"
 }

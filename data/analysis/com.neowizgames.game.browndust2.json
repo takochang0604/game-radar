@@ -1,0 +1,81 @@
+{
+  "appId": "com.neowizgames.game.browndust2",
+  "name": "BrownDust2 - Full Burst RPG",
+  "platform": "android",
+  "market": "kr",
+  "detail": {
+    "description": "▣ Game Introduction ▣\n\n■ Welcome to the 3rd Anniversary Cruise Party! ■\nThe 3rd Anniversary Update is officially live!\nCelebrate with the all-new Summer Event Pack and see your favorite characters in stunning new swimwear.\nClaim 1,300 Free Pulls and jump back into the action!\n\n■ A New Adventure RPG with Console-Level Graphics ■\nExperience High-End 2D graphics with overwhelming detail! \nEnjoy the diverse charms of Live 2D characters drawn by top-tier illustrators,\nalong with beautifully designed ",
+    "released": "Jun 15, 2023",
+    "updated": 1780569654000,
+    "version": "2.27.19",
+    "installs": "1,000,000+",
+    "score": 3.8,
+    "ratings": 121333,
+    "reviews": 6983,
+    "developer": "NEOWIZ",
+    "developerWebsite": "http://www.browndust2.com",
+    "genre": "Role Playing",
+    "recentChanges": "The 3rd Anniversary SUMMER CRUISE is here! Claim 1,300 pulls over 12 weeks! Oh, and don&#39;t miss the Darian Special Skin giveaway!<br><br>[New Costumes] Ocean Vanguard Luvencia, Deadeye Nekyndalia<br>[Rerun Costumes] Pool Party Scheherazade, Pool Party Justia<br>[New Content] Major Fantasia Square update! Customize your own Territory!<br>[Summer Event Pack] 3rd Anniversary Special Summer Event Pack: Cruise Protocol<br>[Season Event] Casino Party"
+  },
+  "reviewAnalysis": {
+    "total": 200,
+    "starCounts": {
+      "1": 80,
+      "2": 12,
+      "3": 17,
+      "4": 24,
+      "5": 67
+    },
+    "positiveRatio": 46,
+    "negativeRatio": 46,
+    "eventMentions": [
+      {
+        "text": "since the new update. it keeps giving me an error saying can't verify age, even tho i've owned it an",
+        "keywords": [
+          "update",
+          "new"
+        ]
+      },
+      {
+        "text": "they made the long awaited arrival of master a glorified cameraman who does nothing and has nothing ",
+        "keywords": [
+          "event"
+        ]
+      },
+      {
+        "text": "leaving a one star due to the fact that with this new update of the game i now can't play the game a",
+        "keywords": [
+          "update",
+          "new"
+        ]
+      },
+      {
+        "text": "really like this game but after last update can't login because it says i haven't confirmed my age b",
+        "keywords": [
+          "update"
+        ]
+      },
+      {
+        "text": "thank you very much, fixed it and it's working fine, loveeee the new costumes 😭😭. love the game lo",
+        "keywords": [
+          "new"
+        ]
+      }
+    ]
+  },
+  "inferredReasons": [
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 2 天前",
+      "confidence": "high"
+    },
+    {
+      "type": "event_driven",
+      "label": "🎉 限時活動引流",
+      "detail": "評論中 5 次提及活動/事件",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:06:28.331Z"
+}

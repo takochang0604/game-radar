@@ -1,0 +1,86 @@
+{
+  "appId": "com.wb.goog.hotd.socialstrategy",
+  "name": "Game of Thrones: Dragonfire",
+  "platform": "android",
+  "market": "us",
+  "detail": {
+    "description": "Command legendary dragons, forge powerful alliances, and conquer the Seven Kingdoms in the ultimate Game of Thrones strategy game. Build your empire, raise a fearsome dragon army, and wage RTS war across Westeros to claim the Iron Throne. Game of Thrones: Dragonfire is an epic 4X strategy war game where you lead your House through conquest, diplomacy, and dragon warfare in the most immersive medieval fantasy game on mobile.\n\nCOLLECT & COMMAND MIGHTY DRAGONS\nHatch, train, and command legendary dr",
+    "released": "May 28, 2026",
+    "updated": 1780501826000,
+    "version": "26.5.52962",
+    "installs": "1,000,000+",
+    "score": 4.6,
+    "ratings": 7574,
+    "reviews": 211,
+    "developer": "Warner Bros. International Enterprises",
+    "developerWebsite": "https://hbogamessupport.wbgames.com/hc/en-us/requests/new",
+    "genre": "Strategy",
+    "recentChanges": "Our dragons grow mightier with every flight!<br>Download the latest update for Dragonfire.<br>Step into the world of Game of Thrones: Dragonfire. Explore Westeros, grow your power, and raise dragons as Houses fight and the realm descends into war.<br>Read more at gotdragonfire.com!"
+  },
+  "reviewAnalysis": {
+    "total": 200,
+    "starCounts": {
+      "1": 39,
+      "2": 10,
+      "3": 11,
+      "4": 21,
+      "5": 119
+    },
+    "positiveRatio": 70,
+    "negativeRatio": 25,
+    "eventMentions": [
+      {
+        "text": "so lets be honest here. this game is nothing but a money grab they advance you to your first pay wal",
+        "keywords": [
+          "season"
+        ]
+      },
+      {
+        "text": "2 days in: the load time is ridiculous the delay on the ui is so frustrating. so much potential but ",
+        "keywords": [
+          "season"
+        ]
+      },
+      {
+        "text": "this game is actually something different, for me at least. it's a blend of several genres i've play",
+        "keywords": [
+          "event"
+        ]
+      },
+      {
+        "text": "i love the mechanic and the new way to play game of thrones. a very good game so far the gold is ver",
+        "keywords": [
+          "new"
+        ]
+      },
+      {
+        "text": "new game out today, on about step 4 and it's freezing. i have to pick a dragon and build an army, i ",
+        "keywords": [
+          "update",
+          "new"
+        ]
+      }
+    ]
+  },
+  "inferredReasons": [
+    {
+      "type": "new_release",
+      "label": "🆕 新遊戲上線熱度",
+      "detail": "上架 9 天，評分 4.6",
+      "confidence": "high"
+    },
+    {
+      "type": "major_update",
+      "label": "🔄 重大更新帶動",
+      "detail": "最近更新: 2 天前",
+      "confidence": "high"
+    },
+    {
+      "type": "event_driven",
+      "label": "🎉 限時活動引流",
+      "detail": "評論中 5 次提及活動/事件",
+      "confidence": "medium"
+    }
+  ],
+  "analyzedAt": "2026-06-06T15:04:11.329Z"
+}
